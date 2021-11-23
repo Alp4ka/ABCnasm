@@ -1,0 +1,11007 @@
+-------INPUT------
+Number of elements: 1000
+######__SHRUB__######
+Name:	BNKwOJ
+Blossom time:	May
+#####################
+
+######__SHRUB__######
+Name:	UqSfmtPgIVxDesRxbN
+Blossom time:	February
+#####################
+
+######__SHRUB__######
+Name:	cxBkBtITbsANveE
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	lfKYJROhySbNPNLycXj
+Blossom time:	April
+#####################
+
+######__SHRUB__######
+Name:	XGDcjGEf
+Blossom time:	March
+#####################
+
+######__SHRUB__######
+Name:	EtBaLk
+Blossom time:	February
+#####################
+
+######__SHRUB__######
+Name:	fLl
+Blossom time:	June
+#####################
+
+######__SHRUB__######
+Name:	YfVewh
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	luLyLldmEgpCymb
+Blossom time:	January
+#####################
+
+######__TREE__#######
+Name:	MBlDwyFadisY
+Age:	6815 y
+#####################
+
+######__TREE__#######
+Name:	cApfvoj
+Age:	4974 y
+#####################
+
+######__FLOWER__#####
+Name:	cvfv
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	JUD
+Age:	6415 y
+#####################
+
+######__SHRUB__######
+Name:	fTdMPaRqDlAmg
+Blossom time:	March
+#####################
+
+######__FLOWER__#####
+Name:	CjtKAqAlqqrZnxNsnA
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	lGdaTKTwLfbOZ
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	ThyAZnOz
+Age:	8587 y
+#####################
+
+######__FLOWER__#####
+Name:	jGtKdMoEeyIpex
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	soLhRetEqdcIjL
+Blossom time:	January
+#####################
+
+######__FLOWER__#####
+Name:	xVWOMPfSN
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	urVx
+Age:	4896 y
+#####################
+
+######__SHRUB__######
+Name:	RCtPd-JO
+Blossom time:	March
+#####################
+
+######__FLOWER__#####
+Name:	CIzWJLhoeFt
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	VrYwmitm
+Blossom time:	August
+#####################
+
+######__FLOWER__#####
+Name:	doMAvvA
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	rdylxzBdWigyLJAmq
+Age:	7799 y
+#####################
+
+######__FLOWER__#####
+Name:	qAeyXT
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	vQvGug
+Age:	1807 y
+#####################
+
+######__TREE__#######
+Name:	-UNG
+Age:	6105 y
+#####################
+
+######__FLOWER__#####
+Name:	ImaKkrBW
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	hgAOaSprBRK
+Age:	3138 y
+#####################
+
+######__FLOWER__#####
+Name:	FvaAK-KJAF
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	faLgq
+Age:	4858 y
+#####################
+
+######__FLOWER__#####
+Name:	BXeQjSbLTXSQTCv
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	XrmZldpAUhvaRnTSr
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	lYxoYtRu
+Age:	2203 y
+#####################
+
+######__TREE__#######
+Name:	feB
+Age:	8762 y
+#####################
+
+######__FLOWER__#####
+Name:	VSJSdyzaaTHS-h
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	LxxQqoQnWO
+Blossom time:	September
+#####################
+
+######__FLOWER__#####
+Name:	yPCqXIIFl
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	FWwcSB
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	GytztuWQXSSrSKeLR
+Age:	1269 y
+#####################
+
+######__TREE__#######
+Name:	dwLXpGtUqa
+Age:	9470 y
+#####################
+
+######__TREE__#######
+Name:	ilYGxYGackclmlch
+Age:	8885 y
+#####################
+
+######__FLOWER__#####
+Name:	CZwpusV
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	dbsyEyYf
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	JJqHOBaVRNBVtUo
+Age:	507 y
+#####################
+
+######__SHRUB__######
+Name:	LQfHLnKbRTVNZsfMy
+Blossom time:	July
+#####################
+
+######__FLOWER__#####
+Name:	brZmQe
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	iHjGEayWuOpK
+Blossom time:	September
+#####################
+
+######__FLOWER__#####
+Name:	HcO-Bp
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	XmlbaU
+Blossom time:	June
+#####################
+
+######__SHRUB__######
+Name:	kDNIBTftfTf
+Blossom time:	September
+#####################
+
+######__TREE__#######
+Name:	BwIMjeTReTw
+Age:	1941 y
+#####################
+
+######__FLOWER__#####
+Name:	qdRbr
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	hBAOIbp-tsWdhkxxqB
+Age:	5913 y
+#####################
+
+######__SHRUB__######
+Name:	bHiabAzozx
+Blossom time:	September
+#####################
+
+######__FLOWER__#####
+Name:	DNicbDD
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	WTqwUTPGEMcLVsSYta
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	XnExwzssNfdIG
+Age:	9602 y
+#####################
+
+######__SHRUB__######
+Name:	RqQIEbrfOG
+Blossom time:	September
+#####################
+
+######__SHRUB__######
+Name:	MGjEcJPgExkC
+Blossom time:	February
+#####################
+
+######__TREE__#######
+Name:	IDDhLkbmgULbXJVhgHS
+Age:	9420 y
+#####################
+
+######__FLOWER__#####
+Name:	ynr-j
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	DMyTHr
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	abqFKjoU
+Blossom time:	April
+#####################
+
+######__FLOWER__#####
+Name:	yIMSa
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	SoJEOqUET
+Age:	9440 y
+#####################
+
+######__TREE__#######
+Name:	LVftdPFNnhCrwMCDsKf
+Age:	751 y
+#####################
+
+######__TREE__#######
+Name:	mdgYXzdlsTGToyF
+Age:	8873 y
+#####################
+
+######__FLOWER__#####
+Name:	JTXkPXpxaBkJaViMq
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	xobgduXtIRCRfC-v
+Age:	8122 y
+#####################
+
+######__TREE__#######
+Name:	YSlCcGiCCpLGAWSrZ
+Age:	7769 y
+#####################
+
+######__FLOWER__#####
+Name:	tunFmZdqfw
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	hlooY
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	CKtWeOCman
+Age:	1653 y
+#####################
+
+######__SHRUB__######
+Name:	VccgWGJ
+Blossom time:	June
+#####################
+
+######__FLOWER__#####
+Name:	ZPauGfaRgWihr
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	UfLEagrSetM
+Blossom time:	August
+#####################
+
+######__FLOWER__#####
+Name:	-sZjZuP
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	TefGZeB
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	UDfHBJ-qfFazmop
+Age:	6721 y
+#####################
+
+######__FLOWER__#####
+Name:	CAjMfPLsKXh
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	MwjqNJWjeKpw
+Age:	7345 y
+#####################
+
+######__TREE__#######
+Name:	-kzpFnEVJZLafS
+Age:	5765 y
+#####################
+
+######__FLOWER__#####
+Name:	yajoyk-fggcffXFtG
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	AlIr
+Age:	7667 y
+#####################
+
+######__TREE__#######
+Name:	QqSJ
+Age:	5790 y
+#####################
+
+######__SHRUB__######
+Name:	Cqe-xKHhaEPeuBaRG
+Blossom time:	December
+#####################
+
+######__SHRUB__######
+Name:	MalhsXuuswdUoxuekc
+Blossom time:	July
+#####################
+
+######__SHRUB__######
+Name:	UpPrCDk
+Blossom time:	August
+#####################
+
+######__TREE__#######
+Name:	gEsPZa
+Age:	687 y
+#####################
+
+######__TREE__#######
+Name:	bKISDZfRzaAVjzAmGW
+Age:	5348 y
+#####################
+
+######__FLOWER__#####
+Name:	HbVydgJwgKTYTHvBi
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	PbgROfvgA
+Blossom time:	February
+#####################
+
+######__FLOWER__#####
+Name:	NrahLubUbWkuKf
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	yvwea
+Age:	4856 y
+#####################
+
+######__FLOWER__#####
+Name:	IYGFFZJjRUfpRxFTKM
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	tBZqtwjXk
+Blossom time:	December
+#####################
+
+######__FLOWER__#####
+Name:	IZX-pAPCnlNNaIXAO
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	qKNaNGTHIjBxP
+Age:	757 y
+#####################
+
+######__TREE__#######
+Name:	uOlAuciKRW
+Age:	502 y
+#####################
+
+######__TREE__#######
+Name:	pfAQSxNTtLjCXaP
+Age:	573 y
+#####################
+
+######__TREE__#######
+Name:	klaWTuGWHxIarjNgVoG
+Age:	5620 y
+#####################
+
+######__FLOWER__#####
+Name:	BOlVziu
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	WtpsjedYBzhWJlCK
+Age:	5954 y
+#####################
+
+######__TREE__#######
+Name:	NINumzYuqGUPxsz
+Age:	7477 y
+#####################
+
+######__SHRUB__######
+Name:	LFMkiYdqYRuf
+Blossom time:	March
+#####################
+
+######__TREE__#######
+Name:	wK-VWUwHFagrPCaSL
+Age:	7492 y
+#####################
+
+######__TREE__#######
+Name:	ymqsTA
+Age:	2618 y
+#####################
+
+######__SHRUB__######
+Name:	iLjnBkmeZzCoo
+Blossom time:	January
+#####################
+
+######__TREE__#######
+Name:	HoykbCEwcfyasim
+Age:	8487 y
+#####################
+
+######__TREE__#######
+Name:	bWDwtAVtl
+Age:	9164 y
+#####################
+
+######__SHRUB__######
+Name:	bRnOxqebETJFgucZQ-
+Blossom time:	July
+#####################
+
+######__TREE__#######
+Name:	tTsgYciXpevdIYFi
+Age:	9107 y
+#####################
+
+######__FLOWER__#####
+Name:	KYOsdoTLgN
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	rDkpdToBuSgfJu
+Age:	2358 y
+#####################
+
+######__FLOWER__#####
+Name:	v-IpjzZ-Sdbai
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	keSq
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	EiqbGIYaoAkLQJaq
+Age:	5681 y
+#####################
+
+######__SHRUB__######
+Name:	jHNpfxlmCHkO
+Blossom time:	January
+#####################
+
+######__SHRUB__######
+Name:	GfQZRor-QPCKp
+Blossom time:	November
+#####################
+
+######__FLOWER__#####
+Name:	vojSWsoys
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	zvdIH
+Age:	1698 y
+#####################
+
+######__TREE__#######
+Name:	CHEVNBLfeaUTnvJQ
+Age:	5166 y
+#####################
+
+######__SHRUB__######
+Name:	mwoNCSSOYbGRnOam
+Blossom time:	January
+#####################
+
+######__TREE__#######
+Name:	ncuTQSucSzMVlQYKVJw
+Age:	5655 y
+#####################
+
+######__TREE__#######
+Name:	BRiAXuCIemEAoECH
+Age:	2184 y
+#####################
+
+######__FLOWER__#####
+Name:	EuWEKLRDMDiP
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	NpNzVyl
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	UhjpytslyZgr
+Blossom time:	January
+#####################
+
+######__TREE__#######
+Name:	GGjOriyzaTHcwZ
+Age:	256 y
+#####################
+
+######__TREE__#######
+Name:	sMgLoYhzRrBYta
+Age:	9508 y
+#####################
+
+######__FLOWER__#####
+Name:	IEfdcRBAmnPJ
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	YEnZd
+Age:	4162 y
+#####################
+
+######__FLOWER__#####
+Name:	Lpqwm
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	DBMrbeQdImcEyP
+Blossom time:	September
+#####################
+
+######__FLOWER__#####
+Name:	FpeyvnbDTYSr
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	wjnTnmjarddPqQY
+Age:	8823 y
+#####################
+
+######__SHRUB__######
+Name:	-zKRVOIUmJS
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	KpVHoFtD
+Age:	3363 y
+#####################
+
+######__FLOWER__#####
+Name:	absE
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	GBSJSnVAGiYmm
+Age:	1755 y
+#####################
+
+######__FLOWER__#####
+Name:	KvGv
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	fOhMSStnMig
+Blossom time:	January
+#####################
+
+######__FLOWER__#####
+Name:	jiWNdyBgzNUhsE
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	cLJQOqAU
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	mHF
+Blossom time:	January
+#####################
+
+######__FLOWER__#####
+Name:	FHTHRbfPLMj-oKQ
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	fdjMKFncO
+Age:	8575 y
+#####################
+
+######__FLOWER__#####
+Name:	HerZliJyVFpldbPf
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	cIPmRBnmA
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	plNEa
+Blossom time:	September
+#####################
+
+######__TREE__#######
+Name:	sStrnedKaIHuzMybqP
+Age:	2561 y
+#####################
+
+######__FLOWER__#####
+Name:	jPlouxnvlzopMDFutr
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	eSvPO
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	dqYwZXOzLa
+Age:	1216 y
+#####################
+
+######__FLOWER__#####
+Name:	yJAlvg
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	xVvjATzIZSGRdD
+Blossom time:	June
+#####################
+
+######__SHRUB__######
+Name:	hSEuPivZqNfwcMWKCl
+Blossom time:	July
+#####################
+
+######__TREE__#######
+Name:	GEIwY-ZOy
+Age:	4 y
+#####################
+
+######__SHRUB__######
+Name:	UPtZaeMfcWoXiyX-s
+Blossom time:	June
+#####################
+
+######__SHRUB__######
+Name:	YPsjo
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	PUpHHz
+Blossom time:	September
+#####################
+
+######__SHRUB__######
+Name:	dLbZyvQjKUeXI
+Blossom time:	June
+#####################
+
+######__FLOWER__#####
+Name:	zqrnTBdAUuT
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	uSyPrjYAiWJAWBvs
+Blossom time:	December
+#####################
+
+######__TREE__#######
+Name:	vnJXa-YKrJjkw
+Age:	1187 y
+#####################
+
+######__TREE__#######
+Name:	SFCCx
+Age:	3589 y
+#####################
+
+######__SHRUB__######
+Name:	RdDgauQiS
+Blossom time:	November
+#####################
+
+######__FLOWER__#####
+Name:	CKlruoCOp
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	HMxhqAMrb
+Blossom time:	April
+#####################
+
+######__TREE__#######
+Name:	be-ONUoN
+Age:	6990 y
+#####################
+
+######__TREE__#######
+Name:	pgWN
+Age:	6503 y
+#####################
+
+######__TREE__#######
+Name:	rLmMI-
+Age:	1014 y
+#####################
+
+######__FLOWER__#####
+Name:	SwSMTf
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	aqGfuxEWcYY
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	vSdosVxmDESasr
+Age:	1199 y
+#####################
+
+######__SHRUB__######
+Name:	mpodJrXKT-Wos
+Blossom time:	May
+#####################
+
+######__SHRUB__######
+Name:	EFFRflJhRQqu
+Blossom time:	September
+#####################
+
+######__FLOWER__#####
+Name:	zZcSHTySOaFVVeQbA
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	uRrWsPIbTk
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	-gTrXJKpOfYa
+Age:	3415 y
+#####################
+
+######__TREE__#######
+Name:	DlOlqKMkUuhARmdlTqb
+Age:	4064 y
+#####################
+
+######__SHRUB__######
+Name:	rPCvzaJwAwmnQUH
+Blossom time:	March
+#####################
+
+######__SHRUB__######
+Name:	aLAfveuyRPlPWEbW
+Blossom time:	September
+#####################
+
+######__SHRUB__######
+Name:	znq
+Blossom time:	August
+#####################
+
+######__TREE__#######
+Name:	uoXauXVrAgUdQ
+Age:	8022 y
+#####################
+
+######__TREE__#######
+Name:	trADwShnwp
+Age:	5793 y
+#####################
+
+######__TREE__#######
+Name:	MIvfqumcieaEoBEQkkt
+Age:	1764 y
+#####################
+
+######__TREE__#######
+Name:	elSUXxiEAsAsMaZ
+Age:	1820 y
+#####################
+
+######__SHRUB__######
+Name:	ucixbJxh
+Blossom time:	July
+#####################
+
+######__SHRUB__######
+Name:	OxnyUTyyKiVEkIwOYt
+Blossom time:	June
+#####################
+
+######__TREE__#######
+Name:	-nUEzQkQYF
+Age:	1837 y
+#####################
+
+######__FLOWER__#####
+Name:	XaxmKjFLzTMQkttVcj
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	eZwQnuFdDTdvrslCnhG
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	YMlUmGuNhAVLACnEdh
+Blossom time:	October
+#####################
+
+######__TREE__#######
+Name:	aSA
+Age:	8489 y
+#####################
+
+######__SHRUB__######
+Name:	nExk
+Blossom time:	January
+#####################
+
+######__FLOWER__#####
+Name:	zbrqQZJEJYBxIgp
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	PTkzNBkqvoGxbIBUiBY
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	iqxCJAGP
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	FcaHLjSQTaekIH
+Blossom time:	September
+#####################
+
+######__FLOWER__#####
+Name:	iGXxhxHaTOM-AsfaW
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	GiwnSZs
+Blossom time:	November
+#####################
+
+######__FLOWER__#####
+Name:	MaPNtrb-zWiLwNoxO
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	OANHg
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	ZKyBWXcSrNaB-n
+Age:	8231 y
+#####################
+
+######__FLOWER__#####
+Name:	oqgnEtslouuvxKJj
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	JFi
+Age:	1741 y
+#####################
+
+######__FLOWER__#####
+Name:	vjwvEetOvPAI
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	UGsyAWVUXlBDq
+Age:	6243 y
+#####################
+
+######__SHRUB__######
+Name:	BZyZQfrO
+Blossom time:	December
+#####################
+
+######__FLOWER__#####
+Name:	VkySr-bPpr
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	RlhPZLljKN
+Age:	8832 y
+#####################
+
+######__FLOWER__#####
+Name:	LYUHowdzf
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	TRzHMBZvkIHPQa-R
+Age:	2622 y
+#####################
+
+######__FLOWER__#####
+Name:	BIydh
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	-XihNJHZXsKJeN
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	cBIQzuEyDXQn
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	kcMcSfGt
+Blossom time:	December
+#####################
+
+######__FLOWER__#####
+Name:	uiarsSQ
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	TlT
+Age:	8169 y
+#####################
+
+######__TREE__#######
+Name:	MJbOOziopCwx-smsZHx
+Age:	7707 y
+#####################
+
+######__TREE__#######
+Name:	dcnVgivuKVvHPpf
+Age:	3021 y
+#####################
+
+######__TREE__#######
+Name:	kMvvAvFPSONKi
+Age:	4744 y
+#####################
+
+######__FLOWER__#####
+Name:	uyzPkjAgaZRN
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	u-EeJrhMXewaSdeBm
+Blossom time:	March
+#####################
+
+######__TREE__#######
+Name:	yKLXWJETYR
+Age:	9800 y
+#####################
+
+######__TREE__#######
+Name:	kGMC
+Age:	5404 y
+#####################
+
+######__TREE__#######
+Name:	DTYEkiT
+Age:	7419 y
+#####################
+
+######__TREE__#######
+Name:	PQvUmn
+Age:	1630 y
+#####################
+
+######__FLOWER__#####
+Name:	wakFzoILoVxNFmOcV
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	htyjIsCadBLGfhIuRzt
+Age:	5683 y
+#####################
+
+######__FLOWER__#####
+Name:	hIReEMLiqIkUenB
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	QuRfWhQT
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	ORVJdnbSJtd
+Blossom time:	September
+#####################
+
+######__TREE__#######
+Name:	yCc
+Age:	4094 y
+#####################
+
+######__SHRUB__######
+Name:	AcZevPeyE
+Blossom time:	September
+#####################
+
+######__FLOWER__#####
+Name:	SRUbiRfboYyaPD
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	XXAxdfVqJ
+Blossom time:	October
+#####################
+
+######__FLOWER__#####
+Name:	xXz
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	AePOjxfqRtDLySs
+Blossom time:	January
+#####################
+
+######__TREE__#######
+Name:	OIATgZdodyDkWVmhP
+Age:	9821 y
+#####################
+
+######__FLOWER__#####
+Name:	vbdfHbt
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	pUBzAkDwY
+Age:	2722 y
+#####################
+
+######__TREE__#######
+Name:	COZX
+Age:	2215 y
+#####################
+
+######__TREE__#######
+Name:	lHd
+Age:	2542 y
+#####################
+
+######__TREE__#######
+Name:	YmpUbmC
+Age:	6718 y
+#####################
+
+######__SHRUB__######
+Name:	zMYVrGeUoKMixSNd
+Blossom time:	August
+#####################
+
+######__SHRUB__######
+Name:	O-odAXJgXXViF-Lo
+Blossom time:	July
+#####################
+
+######__SHRUB__######
+Name:	hzOzqiTrXAnebMjJGhy
+Blossom time:	March
+#####################
+
+######__TREE__#######
+Name:	TVkrZUFnbEBac
+Age:	8719 y
+#####################
+
+######__SHRUB__######
+Name:	IKCaMZ
+Blossom time:	October
+#####################
+
+######__TREE__#######
+Name:	BpMYlRPzxdDyQheiDl
+Age:	9299 y
+#####################
+
+######__FLOWER__#####
+Name:	PwIrkSwWqCRh
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	vvwBHXExPS
+Age:	5842 y
+#####################
+
+######__SHRUB__######
+Name:	YVzzeyRXjtQvQpdMB
+Blossom time:	August
+#####################
+
+######__SHRUB__######
+Name:	INGq-fJaHvXQbl
+Blossom time:	September
+#####################
+
+######__TREE__#######
+Name:	wTMda
+Age:	6269 y
+#####################
+
+######__FLOWER__#####
+Name:	fjVZDQ-HzuhuwYvRTwQ
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	megTHMYulNBxj
+Blossom time:	March
+#####################
+
+######__TREE__#######
+Name:	rXInQGTwK
+Age:	797 y
+#####################
+
+######__SHRUB__######
+Name:	aTuHDVZqxNI
+Blossom time:	April
+#####################
+
+######__FLOWER__#####
+Name:	lKNLFisXydoHztR
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	DfENPWrpM
+Age:	8288 y
+#####################
+
+######__FLOWER__#####
+Name:	MxKeDrArrCckagWfK
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	vfyagPXzM
+Age:	6200 y
+#####################
+
+######__TREE__#######
+Name:	qhUZmcveJkmQSQZOg
+Age:	1911 y
+#####################
+
+######__SHRUB__######
+Name:	lvQuaCYAW
+Blossom time:	June
+#####################
+
+######__TREE__#######
+Name:	XMqZXEqpMYJpYoB
+Age:	7674 y
+#####################
+
+######__TREE__#######
+Name:	PyH
+Age:	1127 y
+#####################
+
+######__SHRUB__######
+Name:	AbgjqInx
+Blossom time:	October
+#####################
+
+######__FLOWER__#####
+Name:	mUZHtNtxPlv
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	BSnD
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	yLkU
+Age:	579 y
+#####################
+
+######__SHRUB__######
+Name:	Y-zaulmjJPJ
+Blossom time:	December
+#####################
+
+######__TREE__#######
+Name:	IFwPRUCspVKWFN
+Age:	6224 y
+#####################
+
+######__TREE__#######
+Name:	kgewCCUjKHdhcmwOqa
+Age:	4718 y
+#####################
+
+######__SHRUB__######
+Name:	ecqxeX
+Blossom time:	January
+#####################
+
+######__FLOWER__#####
+Name:	u-VgWVhdlU
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	OrR
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	dvMJBthmnLoDrfFLh
+Age:	1311 y
+#####################
+
+######__SHRUB__######
+Name:	IFgsgvxkkPAtao
+Blossom time:	September
+#####################
+
+######__TREE__#######
+Name:	Hdku
+Age:	8663 y
+#####################
+
+######__TREE__#######
+Name:	PvIr
+Age:	9165 y
+#####################
+
+######__FLOWER__#####
+Name:	bdTGUyOeNvfii
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	pWIwFO
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	sgYwo
+Blossom time:	September
+#####################
+
+######__FLOWER__#####
+Name:	YLIa-afENQHMIp
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	JQrYEYkk
+Age:	6375 y
+#####################
+
+######__FLOWER__#####
+Name:	SNUJ
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	cPmbumDadqz-vgqU
+Blossom time:	February
+#####################
+
+######__SHRUB__######
+Name:	sXWTYkI
+Blossom time:	September
+#####################
+
+######__SHRUB__######
+Name:	TdlFKhMKuARI
+Blossom time:	February
+#####################
+
+######__TREE__#######
+Name:	RogbDyGSDb
+Age:	7610 y
+#####################
+
+######__FLOWER__#####
+Name:	IAEjwxpzHfh
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	iDQJHpYkqaY
+Age:	1137 y
+#####################
+
+######__SHRUB__######
+Name:	FmdmgghcGMX
+Blossom time:	December
+#####################
+
+######__FLOWER__#####
+Name:	RhWauiWqvULBVEZbay
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	JkQSYTyoKgs
+Blossom time:	June
+#####################
+
+######__FLOWER__#####
+Name:	noR-tPBuA
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	hSoD
+Age:	5225 y
+#####################
+
+######__SHRUB__######
+Name:	QggYmBWXffhhdRlkiuG
+Blossom time:	October
+#####################
+
+######__TREE__#######
+Name:	lbORyQTPoTnBPbzS
+Age:	7676 y
+#####################
+
+######__FLOWER__#####
+Name:	KEJXq
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	WHnXOcOjwOxajm
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	kdnfteY
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	OSqxkCl
+Age:	6430 y
+#####################
+
+######__FLOWER__#####
+Name:	nmcs
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	NYVDvfApZdX
+Blossom time:	January
+#####################
+
+######__FLOWER__#####
+Name:	ZWmFlXsoeYFIQ
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	UTcwJB
+Age:	318 y
+#####################
+
+######__SHRUB__######
+Name:	zlUMotBHrHdrQC
+Blossom time:	April
+#####################
+
+######__SHRUB__######
+Name:	NaDRILIi-BY
+Blossom time:	August
+#####################
+
+######__FLOWER__#####
+Name:	zQebGfXeKoH-HHjXe
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	Lks
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	IrSHQ
+Blossom time:	August
+#####################
+
+######__FLOWER__#####
+Name:	uevQYlH
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	zgeVRFhQTwprLjdrYZl
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	wNYDcm
+Blossom time:	July
+#####################
+
+######__TREE__#######
+Name:	aosUKrwvoo
+Age:	6017 y
+#####################
+
+######__TREE__#######
+Name:	BrPIwEIRwoUuqEDKcX
+Age:	2243 y
+#####################
+
+######__FLOWER__#####
+Name:	f-pxVbeE
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	eLSYXLOquHddvnRkZa
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	qLbbxYmGFoktzvrkpTR
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	-QNLnOZEjzmZVxN
+Age:	5925 y
+#####################
+
+######__FLOWER__#####
+Name:	Rmcec-XyPEPSkp
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	ARtkMNklxscxzDrMOs
+Age:	1498 y
+#####################
+
+######__FLOWER__#####
+Name:	tWdXFroTNHzqMsQvO
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	ZvLyYjZjjyqCDFXT
+Blossom time:	May
+#####################
+
+######__TREE__#######
+Name:	zviCCZQbq
+Age:	1412 y
+#####################
+
+######__FLOWER__#####
+Name:	jxKWtOXCntqnkZZcgQ
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	KobHoxCsMXInJPrROru
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	ANrYFPgqsaPpmBPXfi
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	pohdBZXhRtmwf
+Age:	7830 y
+#####################
+
+######__TREE__#######
+Name:	M-GPoePasORmweSSkye
+Age:	8026 y
+#####################
+
+######__SHRUB__######
+Name:	RisEPMsO
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	xtcBZS
+Age:	2952 y
+#####################
+
+######__TREE__#######
+Name:	LEjOlifVqLbrm
+Age:	8095 y
+#####################
+
+######__SHRUB__######
+Name:	feqXLOzwoJxzTV
+Blossom time:	September
+#####################
+
+######__TREE__#######
+Name:	eAvjbbKxxczPs
+Age:	8465 y
+#####################
+
+######__SHRUB__######
+Name:	dvD-jfOsoWCpfBLvu
+Blossom time:	November
+#####################
+
+######__SHRUB__######
+Name:	jRTsre-
+Blossom time:	August
+#####################
+
+######__FLOWER__#####
+Name:	PItCiQgCsEEdKhgoK
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	PZdlpJWASV
+Blossom time:	July
+#####################
+
+######__SHRUB__######
+Name:	VChVPjfjl
+Blossom time:	April
+#####################
+
+######__FLOWER__#####
+Name:	zjtzni
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	qWJwjqbiqYT
+Age:	6792 y
+#####################
+
+######__TREE__#######
+Name:	JKlIPbGV
+Age:	9549 y
+#####################
+
+######__TREE__#######
+Name:	piGLtFNSemWpwohDL
+Age:	6775 y
+#####################
+
+######__TREE__#######
+Name:	ioJgBGiMpbTXALKgy
+Age:	3485 y
+#####################
+
+######__FLOWER__#####
+Name:	ZyExxlUDPMpjIQAtzNo
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	wtalmcDrothsMpPSqLp
+Blossom time:	January
+#####################
+
+######__SHRUB__######
+Name:	jrQpWokWWX
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	SuT
+Age:	4763 y
+#####################
+
+######__SHRUB__######
+Name:	ryZlXrXLFA
+Blossom time:	February
+#####################
+
+######__FLOWER__#####
+Name:	HHHKesLrY
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	gqDPV-L
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	WVAZGmTbtZD
+Blossom time:	October
+#####################
+
+######__FLOWER__#####
+Name:	tFnJjlN
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	mhg
+Age:	9472 y
+#####################
+
+######__TREE__#######
+Name:	dBowCbqM-YlKrda
+Age:	9768 y
+#####################
+
+######__SHRUB__######
+Name:	pVIIDqjSJtIs
+Blossom time:	July
+#####################
+
+######__TREE__#######
+Name:	qWPReGOFs
+Age:	6090 y
+#####################
+
+######__TREE__#######
+Name:	gSNRxzAWa
+Age:	4310 y
+#####################
+
+######__TREE__#######
+Name:	yWivzIJmPYiKZCrTM
+Age:	3460 y
+#####################
+
+######__SHRUB__######
+Name:	jtcaNaKfQ
+Blossom time:	September
+#####################
+
+######__TREE__#######
+Name:	hvOGRNFDe-O
+Age:	9291 y
+#####################
+
+######__FLOWER__#####
+Name:	tZLdSPKIzCBSON
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	ZZjuVHMGBn
+Blossom time:	October
+#####################
+
+######__FLOWER__#####
+Name:	fOjU
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	DgfuSrXGOj
+Blossom time:	December
+#####################
+
+######__TREE__#######
+Name:	ffy
+Age:	8480 y
+#####################
+
+######__TREE__#######
+Name:	ajxoGGjaXKd
+Age:	5800 y
+#####################
+
+######__FLOWER__#####
+Name:	ugvSf
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	OMfqkngpEM-eIZje
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	CRuqpCR-gzN
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	sIXJcR
+Age:	7296 y
+#####################
+
+######__FLOWER__#####
+Name:	xUwaHt-fQe
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	CgLPijwGZzVdPvj
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	VE-sKakaJmY
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	jhHNyVdnH
+Age:	1223 y
+#####################
+
+######__TREE__#######
+Name:	pst
+Age:	1250 y
+#####################
+
+######__FLOWER__#####
+Name:	GCKAYfxCft
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	FmtJtyEOcCTna
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	YfPqaXSNzDjMoW
+Blossom time:	July
+#####################
+
+######__TREE__#######
+Name:	Zjy
+Age:	559 y
+#####################
+
+######__TREE__#######
+Name:	MzBRrFS
+Age:	5458 y
+#####################
+
+######__FLOWER__#####
+Name:	oRHixLw
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	XAXxALJC
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	Qojoko
+Age:	5351 y
+#####################
+
+######__TREE__#######
+Name:	RSHLlPJ
+Age:	4737 y
+#####################
+
+######__FLOWER__#####
+Name:	tGGnfRcTTBlN
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	Yner-XFaGArR-eb
+Age:	3333 y
+#####################
+
+######__SHRUB__######
+Name:	kKm
+Blossom time:	February
+#####################
+
+######__TREE__#######
+Name:	mpwBsiJV
+Age:	6884 y
+#####################
+
+######__SHRUB__######
+Name:	skkVUEtPwfsUqbekeNp
+Blossom time:	July
+#####################
+
+######__SHRUB__######
+Name:	dTpQQYSNawcwrurOCs
+Blossom time:	September
+#####################
+
+######__FLOWER__#####
+Name:	WpmzDReEYwCASCAv
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	fOOKXLTgoycYuAT
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	GRlhNEyNkwp
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	lvZDzBu
+Age:	1389 y
+#####################
+
+######__FLOWER__#####
+Name:	DHKcXboi
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	TOo
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	jonlq-jZZzt-qsshiuA
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	th-GeOVwbkjqavQUHZm
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	APckjaVaOuqFxRQ
+Age:	4917 y
+#####################
+
+######__SHRUB__######
+Name:	fWTRb
+Blossom time:	February
+#####################
+
+######__FLOWER__#####
+Name:	RgKcx
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	ZUqCjGWKqq
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	johBdNmkDkxQ
+Age:	933 y
+#####################
+
+######__FLOWER__#####
+Name:	JYJGSjo
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	nAjrJlmrFVKaVO
+Age:	2099 y
+#####################
+
+######__FLOWER__#####
+Name:	buE
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	dVnOTykmAuCfwF
+Blossom time:	February
+#####################
+
+######__SHRUB__######
+Name:	gBhhAsGkG-zsiuRRy
+Blossom time:	February
+#####################
+
+######__SHRUB__######
+Name:	GsCcUg
+Blossom time:	July
+#####################
+
+######__TREE__#######
+Name:	fRqhlvmAh
+Age:	9183 y
+#####################
+
+######__SHRUB__######
+Name:	Jgwvl
+Blossom time:	April
+#####################
+
+######__FLOWER__#####
+Name:	bZeoZRCd
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	MiyH-IzHvJfV
+Age:	4993 y
+#####################
+
+######__TREE__#######
+Name:	ItOpzYiBXQ-XZSLk
+Age:	8171 y
+#####################
+
+######__SHRUB__######
+Name:	AYromYnL
+Blossom time:	September
+#####################
+
+######__FLOWER__#####
+Name:	YvTlSnrl
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	YvjvzGDMaW
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	OmGqUEQSnpp
+Blossom time:	August
+#####################
+
+######__SHRUB__######
+Name:	uFhansq-tXsoYLkt
+Blossom time:	August
+#####################
+
+######__SHRUB__######
+Name:	xUJbsUcChaoEvqku
+Blossom time:	September
+#####################
+
+######__TREE__#######
+Name:	rZIxWkDzVzMyfAca
+Age:	9886 y
+#####################
+
+######__SHRUB__######
+Name:	ckwPMNJKYX
+Blossom time:	August
+#####################
+
+######__TREE__#######
+Name:	ktNMBJLlPVNwynlU
+Age:	2644 y
+#####################
+
+######__SHRUB__######
+Name:	BSScoqkZ-KjRfVI
+Blossom time:	March
+#####################
+
+######__TREE__#######
+Name:	PJSAXdCLtqbGOX
+Age:	1508 y
+#####################
+
+######__SHRUB__######
+Name:	fMdUrobiE
+Blossom time:	September
+#####################
+
+######__TREE__#######
+Name:	SjRUul-
+Age:	3883 y
+#####################
+
+######__FLOWER__#####
+Name:	rXCkwCv-Jp
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	OvdhnaPkqt-i
+Blossom time:	April
+#####################
+
+######__TREE__#######
+Name:	PDtdyQAf
+Age:	9846 y
+#####################
+
+######__FLOWER__#####
+Name:	JCBehtMOm
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	-XLmu
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	KgrTQrzfr
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	mEWgDqvjeCPigUiQ
+Blossom time:	February
+#####################
+
+######__FLOWER__#####
+Name:	ytvHtYfL
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	dvSgaExFzBiiYWgLWEI
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	wIcDxlqDW
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	uMGqK
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	CGtPSSjbATHK
+Blossom time:	February
+#####################
+
+######__SHRUB__######
+Name:	soTepvKqP
+Blossom time:	June
+#####################
+
+######__FLOWER__#####
+Name:	sIFpIUzcKTs
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	PSDngbDN-cmjVOSjlwe
+Blossom time:	February
+#####################
+
+######__TREE__#######
+Name:	BptZfcFiKVleQDYD
+Age:	9899 y
+#####################
+
+######__FLOWER__#####
+Name:	GWP
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	xXIAAVuxyQFwlx
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	QxPYUNHzLcRXfFzIC
+Age:	1885 y
+#####################
+
+######__TREE__#######
+Name:	JVEcprfPW
+Age:	1599 y
+#####################
+
+######__SHRUB__######
+Name:	wJKoXywsw
+Blossom time:	November
+#####################
+
+######__FLOWER__#####
+Name:	NruNDezImcEGTVBY
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	SxiMGzytQjxxz
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	HohEFKpqCYr
+Blossom time:	April
+#####################
+
+######__SHRUB__######
+Name:	BtuYRxnoTnTrN
+Blossom time:	December
+#####################
+
+######__TREE__#######
+Name:	MvDHnYy
+Age:	3343 y
+#####################
+
+######__SHRUB__######
+Name:	Zgsd
+Blossom time:	January
+#####################
+
+######__TREE__#######
+Name:	OzmoBidQLKNxbWXMlGE
+Age:	4987 y
+#####################
+
+######__TREE__#######
+Name:	gMGOSypmvllqqHOlHYg
+Age:	7131 y
+#####################
+
+######__FLOWER__#####
+Name:	ZmVjFTXsXfAFcQlSt
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	xPKiuyfW
+Age:	9999 y
+#####################
+
+######__SHRUB__######
+Name:	cLgdtlsJkMYTmswA
+Blossom time:	January
+#####################
+
+######__TREE__#######
+Name:	fhuTNGJjHlPFgquq
+Age:	9585 y
+#####################
+
+######__SHRUB__######
+Name:	ywJaDHVf
+Blossom time:	July
+#####################
+
+######__FLOWER__#####
+Name:	baTtXINpeLOstvkjEIc
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	PRHRM
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	KUUWaq
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	KYbEHM-Y
+Blossom time:	December
+#####################
+
+######__TREE__#######
+Name:	mmpOEnkUQmebY
+Age:	7826 y
+#####################
+
+######__TREE__#######
+Name:	gsOAEFdY
+Age:	5031 y
+#####################
+
+######__TREE__#######
+Name:	FdVzLCe-Bq
+Age:	2959 y
+#####################
+
+######__SHRUB__######
+Name:	vsRWmW
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	tPhNc-mIHD-saksFvg
+Blossom time:	October
+#####################
+
+######__TREE__#######
+Name:	-CoOVFhNDeoCbUKRaR
+Age:	1536 y
+#####################
+
+######__FLOWER__#####
+Name:	oit
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	PzyUnQXdW
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	Mpfz
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	HPMFUDcXkJx
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	gAbgPpCjS-x
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	UKPWqiGDzgSJa
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	TitWWfJEPqI
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	BsvyLEF
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	QYEajqM-
+Age:	3817 y
+#####################
+
+######__TREE__#######
+Name:	CBVByvAHw
+Age:	8794 y
+#####################
+
+######__FLOWER__#####
+Name:	KKSXPVzxV
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	XRSzB
+Age:	6274 y
+#####################
+
+######__FLOWER__#####
+Name:	JQxwwTjRzIvhNIguO
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	DRJysqY
+Age:	4577 y
+#####################
+
+######__SHRUB__######
+Name:	tJaMBDOlJumkBE
+Blossom time:	September
+#####################
+
+######__SHRUB__######
+Name:	szCcYRDJgdCwd
+Blossom time:	June
+#####################
+
+######__TREE__#######
+Name:	hSaWZrvQOZB
+Age:	6962 y
+#####################
+
+######__SHRUB__######
+Name:	TGqMPSwCwcfvBYuPZ
+Blossom time:	July
+#####################
+
+######__FLOWER__#####
+Name:	Rdi
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	ngy-BafegbXKLckaBxj
+Blossom time:	March
+#####################
+
+######__FLOWER__#####
+Name:	aEFZX-ndcwqUWeV
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	LYIpy
+Age:	6404 y
+#####################
+
+######__SHRUB__######
+Name:	NjvUmiOFQ
+Blossom time:	October
+#####################
+
+######__FLOWER__#####
+Name:	-FYyXdPCI-yMAd
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	OigntcnDojkVOVcWUwQ
+Age:	7182 y
+#####################
+
+######__FLOWER__#####
+Name:	mhWNtZDmHmDpnjtw
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	-HacA
+Age:	7457 y
+#####################
+
+######__TREE__#######
+Name:	s-WdT
+Age:	7350 y
+#####################
+
+######__SHRUB__######
+Name:	QsmtunkJwF-RcLyCDK
+Blossom time:	July
+#####################
+
+######__FLOWER__#####
+Name:	wfXuC
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	TMBCNuWWRKrKV
+Age:	8227 y
+#####################
+
+######__FLOWER__#####
+Name:	lDQgIEVojCcj
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	AaoSfcDgrPbxtAsn
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	VpuBnElzlrYY
+Blossom time:	April
+#####################
+
+######__FLOWER__#####
+Name:	tOGVwlt-LhppZvD
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	AX-DkZYVRhhNOmSEC
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	kkCqUfEZsm
+Blossom time:	March
+#####################
+
+######__FLOWER__#####
+Name:	gdS
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	hDulQyoEWQIulr
+Age:	3068 y
+#####################
+
+######__TREE__#######
+Name:	XWR
+Age:	677 y
+#####################
+
+######__FLOWER__#####
+Name:	SXsn
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	ElFpJFHr
+Blossom time:	October
+#####################
+
+######__TREE__#######
+Name:	WIWtfQHOWblW
+Age:	1429 y
+#####################
+
+######__SHRUB__######
+Name:	yikoEzUHOVINt
+Blossom time:	March
+#####################
+
+######__TREE__#######
+Name:	iUhlzhduj
+Age:	1434 y
+#####################
+
+######__TREE__#######
+Name:	mgTSVczNXQZeW
+Age:	3508 y
+#####################
+
+######__SHRUB__######
+Name:	IPQXHhDgymCWp
+Blossom time:	June
+#####################
+
+######__SHRUB__######
+Name:	GOMHonf
+Blossom time:	September
+#####################
+
+######__TREE__#######
+Name:	StjVjetjb-DPG
+Age:	2622 y
+#####################
+
+######__TREE__#######
+Name:	NkXeUFJAemOcisuNK
+Age:	8490 y
+#####################
+
+######__SHRUB__######
+Name:	yRreeCsjDxYHK
+Blossom time:	July
+#####################
+
+######__TREE__#######
+Name:	KfFzLQgmdQEoRcC
+Age:	5999 y
+#####################
+
+######__FLOWER__#####
+Name:	SInwbhWiYZswQRx
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	zKjSKlzmZzibN
+Blossom time:	October
+#####################
+
+######__FLOWER__#####
+Name:	QWkWHwmQo
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	lShK
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	RTQRNxaCbgM
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	ChmvhQ
+Blossom time:	August
+#####################
+
+######__FLOWER__#####
+Name:	glMPAyCKp-LL
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	bXVWLAsf
+Age:	9729 y
+#####################
+
+######__SHRUB__######
+Name:	QK-QtzlpRExNXPeK
+Blossom time:	May
+#####################
+
+######__FLOWER__#####
+Name:	PiItoTCQByK
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	kyksNUgUWkY
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	sYgxfcTWmMWBTL
+Age:	6368 y
+#####################
+
+######__FLOWER__#####
+Name:	y-EKnfapgOg
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	JFrhQMME
+Blossom time:	September
+#####################
+
+######__TREE__#######
+Name:	-iuGej-ElVyudHQxo
+Age:	810 y
+#####################
+
+######__TREE__#######
+Name:	-pWHJ-gLrLyotDedR
+Age:	234 y
+#####################
+
+######__TREE__#######
+Name:	RQd
+Age:	2473 y
+#####################
+
+######__SHRUB__######
+Name:	pnbsENWRL
+Blossom time:	March
+#####################
+
+######__TREE__#######
+Name:	GLoMQzsOyXhC-z
+Age:	6503 y
+#####################
+
+######__SHRUB__######
+Name:	KynxeH
+Blossom time:	June
+#####################
+
+######__TREE__#######
+Name:	ynkgHaUn
+Age:	9449 y
+#####################
+
+######__FLOWER__#####
+Name:	qxBxHNXfMDECByH
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	SVBgFjTnwiOFModq
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	ICBXBBjidVOPFrS
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	ageLwCVAfbbCcY
+Blossom time:	August
+#####################
+
+######__TREE__#######
+Name:	FCxxdviqgSsCELUV
+Age:	7383 y
+#####################
+
+######__FLOWER__#####
+Name:	c-foBsobVNq-JvmjGcN
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	UaKMVLrMcMnpd
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	nVzM
+Blossom time:	March
+#####################
+
+######__SHRUB__######
+Name:	xtxVRHJLCQoMWy
+Blossom time:	October
+#####################
+
+######__TREE__#######
+Name:	ITjxajxGkZdLOZ
+Age:	6296 y
+#####################
+
+######__SHRUB__######
+Name:	lCwPdwgQWjuTw
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	racmSPjrwf
+Blossom time:	May
+#####################
+
+######__FLOWER__#####
+Name:	TdNMGDkhQkVVNYbSvPg
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	BzPWCvLxIWutq-VbxV
+Age:	3539 y
+#####################
+
+######__FLOWER__#####
+Name:	lWQobgRAMVubyFbI
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	uRNdOz
+Age:	4425 y
+#####################
+
+######__TREE__#######
+Name:	TrnwSnAO
+Age:	4191 y
+#####################
+
+######__FLOWER__#####
+Name:	BptXxBKWEZJHWZuP
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	OyQUIjpvnEhwM
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	nOXtjd-
+Blossom time:	April
+#####################
+
+######__SHRUB__######
+Name:	KwUlnzNrtAXGIbvvM
+Blossom time:	September
+#####################
+
+######__SHRUB__######
+Name:	MrnNOgSGMnICqlGTsKi
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	PGrahosCNhrV
+Age:	496 y
+#####################
+
+######__SHRUB__######
+Name:	NtzEKHePO
+Blossom time:	March
+#####################
+
+######__FLOWER__#####
+Name:	zhy-
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	HzsQzhhBSRXuUn-
+Blossom time:	November
+#####################
+
+######__FLOWER__#####
+Name:	JTwwtuCXk
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	Pzhxzpp
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	bYIR
+Age:	2887 y
+#####################
+
+######__SHRUB__######
+Name:	mWIROHigHiDhSOnTbN
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	lnGhRQNdDHKlECWKiC
+Blossom time:	May
+#####################
+
+######__FLOWER__#####
+Name:	CUXnhbBZgAjd
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	RpOHn-Oy-gvdgOFWen
+Blossom time:	July
+#####################
+
+######__SHRUB__######
+Name:	erdLfeTjg-zN
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	ZqiNxPh
+Age:	1059 y
+#####################
+
+######__TREE__#######
+Name:	J-QJuXzAUSeox
+Age:	467 y
+#####################
+
+######__TREE__#######
+Name:	k-GAwDsgpyb
+Age:	7599 y
+#####################
+
+######__FLOWER__#####
+Name:	IAXdUQUthkCLUHJOH
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	KhmirGzUZfQYrmkp
+Blossom time:	August
+#####################
+
+######__FLOWER__#####
+Name:	XQosUeuxNfeSa
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	UMjkBtlwOkmBB
+Blossom time:	February
+#####################
+
+######__SHRUB__######
+Name:	OnOHUgPrOKhNzyCtTDV
+Blossom time:	December
+#####################
+
+######__TREE__#######
+Name:	orsiQfhJPnz
+Age:	7316 y
+#####################
+
+######__FLOWER__#####
+Name:	KuPMenvVPKQF
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	nJRwuJwmUBOpJawc
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	-JiWKjbvoU
+Blossom time:	February
+#####################
+
+######__SHRUB__######
+Name:	lsDMuZRdVk
+Blossom time:	November
+#####################
+
+######__SHRUB__######
+Name:	OuecaijLGIf
+Blossom time:	August
+#####################
+
+######__SHRUB__######
+Name:	vuYuM
+Blossom time:	February
+#####################
+
+######__FLOWER__#####
+Name:	EVuCkN
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	thwYUgvREokz
+Blossom time:	April
+#####################
+
+######__FLOWER__#####
+Name:	ZnWBmMQuqiWL
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	YFKDLBuG-obvIHheF
+Blossom time:	December
+#####################
+
+######__FLOWER__#####
+Name:	LGamgLyUEoidc
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	QSIYMpiurBgVjbUfSV
+Age:	897 y
+#####################
+
+######__TREE__#######
+Name:	nUQuZfevLVwOODuN
+Age:	3785 y
+#####################
+
+######__TREE__#######
+Name:	vuRdtgYCANCOVUOE
+Age:	125 y
+#####################
+
+######__FLOWER__#####
+Name:	ylSI
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	FBNYNXLUswxjvTG
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	EydUUwstfNAdEBP
+Blossom time:	August
+#####################
+
+######__SHRUB__######
+Name:	z-ZAuFQe
+Blossom time:	April
+#####################
+
+######__SHRUB__######
+Name:	XrwmcGUN
+Blossom time:	December
+#####################
+
+######__TREE__#######
+Name:	oxeabshYbGAcN
+Age:	6408 y
+#####################
+
+######__SHRUB__######
+Name:	ZsLN
+Blossom time:	May
+#####################
+
+######__SHRUB__######
+Name:	YkzjxNqYUQFVbnS
+Blossom time:	December
+#####################
+
+######__FLOWER__#####
+Name:	kBviSQWwLMFGTLs
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	WGKdG
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	OmMpMKsQneQtTZp
+Blossom time:	August
+#####################
+
+######__SHRUB__######
+Name:	GevWPexYHgoRyjoTYIC
+Blossom time:	June
+#####################
+
+######__FLOWER__#####
+Name:	mfrosFybuMUeq
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	mmgio
+Blossom time:	July
+#####################
+
+######__SHRUB__######
+Name:	TgRMSCNhOEMMxpE
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	oGEfHWZRGuRb
+Age:	1074 y
+#####################
+
+######__TREE__#######
+Name:	SSeypZXKBlSUxdGEC
+Age:	4506 y
+#####################
+
+######__TREE__#######
+Name:	kYd-XnevqHosqkv
+Age:	7783 y
+#####################
+
+######__SHRUB__######
+Name:	UDPKLRoSsp
+Blossom time:	March
+#####################
+
+######__FLOWER__#####
+Name:	AqCJ-ZlV
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	AowUNKBPe
+Blossom time:	April
+#####################
+
+######__FLOWER__#####
+Name:	zgatRMQsGUUrSMEDbh
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	RlUXxH
+Blossom time:	June
+#####################
+
+######__SHRUB__######
+Name:	VmfIPV
+Blossom time:	April
+#####################
+
+######__SHRUB__######
+Name:	TxFGYKcLGazyfbMM
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	MTd-RUDk
+Blossom time:	September
+#####################
+
+######__FLOWER__#####
+Name:	pIcw
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	cndS
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	XBEKCChMIHIlwmCPy
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	jcdpjJEW
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	wEDNBuFwXOGDHlDNN
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	dHvWsFodQGbIcPy
+Age:	2815 y
+#####################
+
+######__FLOWER__#####
+Name:	-hSZu-DzrHXe
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	WZeGWczcNQjDSgipGEx
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	MOPfws
+Age:	9281 y
+#####################
+
+######__FLOWER__#####
+Name:	zuKI
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	fpytckZPUFS
+Blossom time:	October
+#####################
+
+######__TREE__#######
+Name:	SriXKAaPRzEHAgI
+Age:	7652 y
+#####################
+
+######__SHRUB__######
+Name:	Jy-jBNm
+Blossom time:	May
+#####################
+
+######__FLOWER__#####
+Name:	fhJmnnnJf
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	Odabq
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	LzUBpOqHcjY
+Blossom time:	November
+#####################
+
+######__FLOWER__#####
+Name:	FAZDYsqAIGvk
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	gODFzpvuAjwycjkvR
+Blossom time:	October
+#####################
+
+######__TREE__#######
+Name:	IuQv
+Age:	794 y
+#####################
+
+######__SHRUB__######
+Name:	STU-lGKafQFXhRwVmL
+Blossom time:	April
+#####################
+
+######__FLOWER__#####
+Name:	xhqiWUrhCiQ
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	buViXExX
+Blossom time:	July
+#####################
+
+######__FLOWER__#####
+Name:	lelKRNSNrN-a
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	HxPi
+Age:	5208 y
+#####################
+
+######__SHRUB__######
+Name:	QXoEzE-Be
+Blossom time:	November
+#####################
+
+######__FLOWER__#####
+Name:	GiNYsEejLha
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	SKPbyPvzkC
+Age:	3618 y
+#####################
+
+######__TREE__#######
+Name:	ozEoOJUFWfCkYjII-
+Age:	90 y
+#####################
+
+######__SHRUB__######
+Name:	-qEoBq-BWVxpJb
+Blossom time:	January
+#####################
+
+######__FLOWER__#####
+Name:	RczBcJIsBHDOloFZJcC
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	kEdUbHoQIsqQfBJcOd
+Age:	5251 y
+#####################
+
+######__FLOWER__#####
+Name:	iFdQeFCZ
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	wPqMRP-
+Age:	4399 y
+#####################
+
+######__TREE__#######
+Name:	AGEYg
+Age:	6729 y
+#####################
+
+######__FLOWER__#####
+Name:	hwjRz
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	VtyGXIEquUp
+Age:	5766 y
+#####################
+
+######__TREE__#######
+Name:	KUTmSlhoEAhlFpHMVJo
+Age:	8341 y
+#####################
+
+######__TREE__#######
+Name:	PDeCLlsiEE
+Age:	8914 y
+#####################
+
+######__TREE__#######
+Name:	tAVlDuipMKr
+Age:	2346 y
+#####################
+
+######__FLOWER__#####
+Name:	SXRzeH
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	zGxwcFFbkB
+Blossom time:	November
+#####################
+
+######__SHRUB__######
+Name:	tbnTzI
+Blossom time:	October
+#####################
+
+######__FLOWER__#####
+Name:	lyasfmdJuDPUfT
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	Soy-vAE-z
+Blossom time:	June
+#####################
+
+######__FLOWER__#####
+Name:	fGnnnHsnuuAlhJSzokU
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	tVq
+Age:	9810 y
+#####################
+
+######__TREE__#######
+Name:	fPqqBTMWZhmtVgN
+Age:	6687 y
+#####################
+
+######__TREE__#######
+Name:	JLYVBtIWuFFOFWv
+Age:	5138 y
+#####################
+
+######__FLOWER__#####
+Name:	BDmCWrQRLRzWsPmBtV
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	FtxQkcvSocFx-oqTo
+Blossom time:	May
+#####################
+
+######__TREE__#######
+Name:	NREDEMkNUf
+Age:	8184 y
+#####################
+
+######__TREE__#######
+Name:	mmhccyP
+Age:	3142 y
+#####################
+
+######__TREE__#######
+Name:	wqPygZuY
+Age:	4090 y
+#####################
+
+######__TREE__#######
+Name:	EKDMX
+Age:	2213 y
+#####################
+
+######__SHRUB__######
+Name:	vAMctmVAONRVmP
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	bjoZ
+Age:	9271 y
+#####################
+
+######__FLOWER__#####
+Name:	EGYBSLcd
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	dZHbqdyv
+Blossom time:	February
+#####################
+
+######__TREE__#######
+Name:	Ubpwuo
+Age:	5549 y
+#####################
+
+######__SHRUB__######
+Name:	acgdddiMxEL
+Blossom time:	July
+#####################
+
+######__TREE__#######
+Name:	PwnXRxgAQs-wbOhy
+Age:	9792 y
+#####################
+
+######__SHRUB__######
+Name:	jklOMLiqH
+Blossom time:	February
+#####################
+
+######__TREE__#######
+Name:	RRzNUfkv
+Age:	4774 y
+#####################
+
+######__FLOWER__#####
+Name:	xUgpsjgkuyJCYFEywvd
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	cRwGxRWETqf
+Age:	4465 y
+#####################
+
+######__FLOWER__#####
+Name:	Gmw-ykxaT
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	MoiTRedtjuF
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	bEXOIifoOZ
+Age:	2654 y
+#####################
+
+######__SHRUB__######
+Name:	PAPgHkVZqrUYXLn
+Blossom time:	November
+#####################
+
+######__SHRUB__######
+Name:	ZxpIWvxHp
+Blossom time:	August
+#####################
+
+######__TREE__#######
+Name:	qeIpvVwbCiqUL-N
+Age:	7709 y
+#####################
+
+######__FLOWER__#####
+Name:	yzAxQSVx
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	TRFDAbODTa
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	dRchXjYt
+Age:	30 y
+#####################
+
+######__SHRUB__######
+Name:	JY-AhybzGh
+Blossom time:	February
+#####################
+
+######__TREE__#######
+Name:	lJjewwnGyzotHg
+Age:	1309 y
+#####################
+
+######__TREE__#######
+Name:	FxgL
+Age:	1450 y
+#####################
+
+######__SHRUB__######
+Name:	DRkEOcgWSyPddOybWH
+Blossom time:	April
+#####################
+
+######__SHRUB__######
+Name:	aqKeCacpxMveJ
+Blossom time:	December
+#####################
+
+######__SHRUB__######
+Name:	LKEeqhJoCFHHCSbasx
+Blossom time:	December
+#####################
+
+######__TREE__#######
+Name:	gVpFbDOcemlz
+Age:	8156 y
+#####################
+
+######__TREE__#######
+Name:	BsEkrbdnOHpxgeSmK
+Age:	4879 y
+#####################
+
+######__FLOWER__#####
+Name:	PqKpo
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	nnvCpr
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	rkpMUPFGmkt
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	CDpYxyiWrSbn
+Age:	7102 y
+#####################
+
+######__TREE__#######
+Name:	LimgvRxYKOYfLvMa
+Age:	8460 y
+#####################
+
+######__FLOWER__#####
+Name:	WAyGDhMgZncgKrX
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	ySZZcIskyWfv
+Age:	4149 y
+#####################
+
+######__TREE__#######
+Name:	FoeEfLQslhiVgZwjr
+Age:	2799 y
+#####################
+
+######__FLOWER__#####
+Name:	FvFpwHERJBCOsbAMxS
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	Rgm
+Blossom time:	February
+#####################
+
+######__TREE__#######
+Name:	tFmqYq
+Age:	6799 y
+#####################
+
+######__TREE__#######
+Name:	oBsrzUdtpwRrLM
+Age:	663 y
+#####################
+
+######__SHRUB__######
+Name:	sweuLI
+Blossom time:	April
+#####################
+
+######__TREE__#######
+Name:	mNuXUxjBTHPVx
+Age:	590 y
+#####################
+
+######__FLOWER__#####
+Name:	WcWnN
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	acbkCzaQKvmEBC-Upo
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	TdIt
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	vmouqyTcMgq
+Age:	733 y
+#####################
+
+######__SHRUB__######
+Name:	Rd-OlAjmfvp-
+Blossom time:	May
+#####################
+
+######__FLOWER__#####
+Name:	XvhXtWxAYhHMvJCWZdI
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	bAp-zhPfoepRv
+Age:	8537 y
+#####################
+
+######__SHRUB__######
+Name:	ThD
+Blossom time:	April
+#####################
+
+######__FLOWER__#####
+Name:	GGXFWqXDkvWIW
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	GAZ
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	kvKvsO
+Age:	8603 y
+#####################
+
+######__TREE__#######
+Name:	XMxu-WyKNwZtrzqZI
+Age:	3113 y
+#####################
+
+######__SHRUB__######
+Name:	ekv-fNjqbWWKqqeyIfb
+Blossom time:	January
+#####################
+
+######__SHRUB__######
+Name:	hMgvBcuXthSUHrraTId
+Blossom time:	June
+#####################
+
+######__TREE__#######
+Name:	juNnXQPHcnZpxjtIAAv
+Age:	1876 y
+#####################
+
+######__TREE__#######
+Name:	r-qFDFbH
+Age:	3219 y
+#####################
+
+######__TREE__#######
+Name:	Psq
+Age:	7326 y
+#####################
+
+######__FLOWER__#####
+Name:	Yzg
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	m-mgVtpDOgfCQybJ
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	-EvowLZCsfXcdz-UJTC
+Blossom time:	July
+#####################
+
+######__TREE__#######
+Name:	xkhUgYBMIvURtoQ
+Age:	7792 y
+#####################
+
+######__FLOWER__#####
+Name:	sEDRvsgkCPnDZM
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	kzWvybEpIJHamuWW
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	ANgAiZB
+Blossom time:	May
+#####################
+
+######__SHRUB__######
+Name:	XVezEMMmU
+Blossom time:	April
+#####################
+
+######__TREE__#######
+Name:	REVpREI
+Age:	4458 y
+#####################
+
+######__SHRUB__######
+Name:	jXIRdPH
+Blossom time:	March
+#####################
+
+######__SHRUB__######
+Name:	tVIuxuSuXeoEtpKFs
+Blossom time:	May
+#####################
+
+######__SHRUB__######
+Name:	QEKda
+Blossom time:	July
+#####################
+
+######__TREE__#######
+Name:	lhzBSQpsD-buEyGDxy
+Age:	5152 y
+#####################
+
+######__FLOWER__#####
+Name:	aepLzBow
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	LskrdUxryBhGiT
+Age:	5978 y
+#####################
+
+######__TREE__#######
+Name:	mIZJHEFOMcaBgTX-
+Age:	4377 y
+#####################
+
+######__FLOWER__#####
+Name:	uBWF
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	UxQir
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	qpmflRHeYRu-OOEyg
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	nBdaLZLqrd
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	EkxYsEjgoJeV
+Age:	465 y
+#####################
+
+######__TREE__#######
+Name:	EmBuVhKZOo-sWbhR
+Age:	6609 y
+#####################
+
+######__SHRUB__######
+Name:	HntYLFQ-HnFYQDI
+Blossom time:	July
+#####################
+
+######__TREE__#######
+Name:	bDTushFGAJlBlOQBl
+Age:	3299 y
+#####################
+
+######__SHRUB__######
+Name:	lrkaokbj
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	WEkFgD-E
+Age:	8073 y
+#####################
+
+######__SHRUB__######
+Name:	MiGTTUVXtzeVADzdibe
+Blossom time:	July
+#####################
+
+######__SHRUB__######
+Name:	jDZo
+Blossom time:	December
+#####################
+
+######__TREE__#######
+Name:	Iwgg
+Age:	1640 y
+#####################
+
+######__SHRUB__######
+Name:	qzNUfQ
+Blossom time:	September
+#####################
+
+######__FLOWER__#####
+Name:	yHMekMI
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	CepVFjeWSbMpRZdg
+Blossom time:	June
+#####################
+
+######__FLOWER__#####
+Name:	GtIe
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	IkCEhCtTj
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	TUqr
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	InFz-qRFodei
+Age:	5872 y
+#####################
+
+######__SHRUB__######
+Name:	cgRUlM
+Blossom time:	February
+#####################
+
+######__SHRUB__######
+Name:	FTrVMfbyLAYkJfp
+Blossom time:	July
+#####################
+
+######__TREE__#######
+Name:	SmSz-mwyNQgVRi
+Age:	1754 y
+#####################
+
+######__TREE__#######
+Name:	mQWSLSchIoMagsv
+Age:	8927 y
+#####################
+
+######__SHRUB__######
+Name:	FwwMtwFQS-UNr
+Blossom time:	April
+#####################
+
+######__SHRUB__######
+Name:	wVCBSwaHlTQXkeg
+Blossom time:	June
+#####################
+
+######__TREE__#######
+Name:	gGBuzFIQaaKgxlA
+Age:	7897 y
+#####################
+
+######__FLOWER__#####
+Name:	BtHHpcoUREjdbA
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	TFnpeoQKelU
+Blossom time:	December
+#####################
+
+######__SHRUB__######
+Name:	zLWfuwVdtRPvy
+Blossom time:	August
+#####################
+
+######__TREE__#######
+Name:	ASNfcyVc
+Age:	7234 y
+#####################
+
+######__SHRUB__######
+Name:	oWUC
+Blossom time:	December
+#####################
+
+######__SHRUB__######
+Name:	oHepiIfVoZXA
+Blossom time:	November
+#####################
+
+######__FLOWER__#####
+Name:	ubcFXBCejor
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	SpLYkWdr
+Age:	947 y
+#####################
+
+######__FLOWER__#####
+Name:	ZeVwdB
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	WoXVDA
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	fMeEjixNQNkOah
+Age:	1402 y
+#####################
+
+######__TREE__#######
+Name:	iOUbUIS-OEJDNitwhiZ
+Age:	2136 y
+#####################
+
+######__TREE__#######
+Name:	EmF
+Age:	8874 y
+#####################
+
+######__SHRUB__######
+Name:	sVQXPs
+Blossom time:	July
+#####################
+
+######__FLOWER__#####
+Name:	ICQhJkFeBXL
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	SOEAWl-HrqxepyMtND
+Blossom time:	August
+#####################
+
+######__TREE__#######
+Name:	x-zBwFXSyZVZQDXlK
+Age:	9576 y
+#####################
+
+######__FLOWER__#####
+Name:	OAUfpJjqxMwXmCV
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	dlgOD
+Blossom time:	July
+#####################
+
+######__SHRUB__######
+Name:	FJ-xdipzW
+Blossom time:	July
+#####################
+
+######__FLOWER__#####
+Name:	MpKQocQaVGYfsMwbzqg
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	SPqxEIzkmLUcnXVnTk
+Age:	6588 y
+#####################
+
+######__TREE__#######
+Name:	rGIUd
+Age:	7502 y
+#####################
+
+######__SHRUB__######
+Name:	pfGzHgqVFbQtoq
+Blossom time:	May
+#####################
+
+######__FLOWER__#####
+Name:	dIXrwtdVK
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	ZkzdaduMlisVovTgTd
+Blossom time:	June
+#####################
+
+######__SHRUB__######
+Name:	aQWHdByjyg
+Blossom time:	January
+#####################
+
+######__TREE__#######
+Name:	wdmO
+Age:	3127 y
+#####################
+
+######__FLOWER__#####
+Name:	ezRMelr
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	CMmVfLzn
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	bUQMltuTEEFqYspext
+Blossom time:	December
+#####################
+
+######__FLOWER__#####
+Name:	AMCejGU
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	wRTuvoly
+Blossom time:	October
+#####################
+
+######__FLOWER__#####
+Name:	BQAU
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	xPHp
+Blossom time:	April
+#####################
+
+######__SHRUB__######
+Name:	TPno
+Blossom time:	July
+#####################
+
+######__SHRUB__######
+Name:	AUBsCHLsAhfh
+Blossom time:	January
+#####################
+
+######__FLOWER__#####
+Name:	HhkRaw
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	WPbHcCYUUwkqk
+Age:	9812 y
+#####################
+
+######__SHRUB__######
+Name:	AQVg-noxjLtbot
+Blossom time:	May
+#####################
+
+######__TREE__#######
+Name:	ztHzpQQkNqGkZ
+Age:	5449 y
+#####################
+
+######__TREE__#######
+Name:	cVRzpbH
+Age:	4344 y
+#####################
+
+######__SHRUB__######
+Name:	JdZtslgW
+Blossom time:	August
+#####################
+
+######__SHRUB__######
+Name:	KcTNPvVobmrniEoAb
+Blossom time:	April
+#####################
+
+######__FLOWER__#####
+Name:	mYZAjSnBwETMbOvspbX
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	SPSzZOPsIfV-bk
+Age:	4552 y
+#####################
+
+######__SHRUB__######
+Name:	lrnKwslFV
+Blossom time:	February
+#####################
+
+######__FLOWER__#####
+Name:	Khz-QZNfwPcHAQ
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	XvPbx-My
+Age:	8217 y
+#####################
+
+######__FLOWER__#####
+Name:	LtHomPfQ
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	GQGeAHQDyXfXLiMVG
+Age:	3923 y
+#####################
+
+######__TREE__#######
+Name:	feAWen
+Age:	533 y
+#####################
+
+######__SHRUB__######
+Name:	tqnAhUCpIDx
+Blossom time:	April
+#####################
+
+######__SHRUB__######
+Name:	NFL-q
+Blossom time:	June
+#####################
+
+######__TREE__#######
+Name:	UWSIrgqsMYDBJu
+Age:	8854 y
+#####################
+
+######__FLOWER__#####
+Name:	pIhjdozQQZUZkIM
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	Wssdhkr
+Age:	5663 y
+#####################
+
+######__TREE__#######
+Name:	CiKTg
+Age:	1934 y
+#####################
+
+######__SHRUB__######
+Name:	CXIWLFXPQMubpi
+Blossom time:	March
+#####################
+
+######__SHRUB__######
+Name:	pFPvtmKkJQSEULR
+Blossom time:	December
+#####################
+
+######__FLOWER__#####
+Name:	BLRDLwlxDU
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	z-GC
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	qPv
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	pzdOeA-uWBfzLmmqDam
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	QkJUyFNWx
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	HRBCHN
+Age:	1436 y
+#####################
+
+######__FLOWER__#####
+Name:	giwJ-D
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	xBDheBiQMe
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	iiDEbHMyj
+Age:	9140 y
+#####################
+
+######__TREE__#######
+Name:	PLgoPtO
+Age:	5039 y
+#####################
+
+######__SHRUB__######
+Name:	fzyX
+Blossom time:	October
+#####################
+
+######__SHRUB__######
+Name:	veZPXCUG-KYZAEIw
+Blossom time:	February
+#####################
+
+######__FLOWER__#####
+Name:	WnqEvxcwG
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	XNnPlZHUNujjVMbb
+Age:	195 y
+#####################
+
+######__TREE__#######
+Name:	wKgrlo-XwbHIbZYU
+Age:	6746 y
+#####################
+
+######__FLOWER__#####
+Name:	vIDZeikqydMMGh
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	wvuo-wCBx-OaPODJQ
+Blossom time:	December
+#####################
+
+######__FLOWER__#####
+Name:	WnlZBKDkApTKyKmaNC
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	xiGozPoTEcYygM
+Age:	1633 y
+#####################
+
+######__TREE__#######
+Name:	YxmASSU
+Age:	8853 y
+#####################
+
+######__FLOWER__#####
+Name:	SoqJOO
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	fpJCyWumYH
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	tCghyxyU
+Blossom time:	December
+#####################
+
+######__FLOWER__#####
+Name:	ndesvrnHGGazHvNXj
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	shtwCM
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	PcU
+Blossom time:	September
+#####################
+
+######__SHRUB__######
+Name:	BuVs-H
+Blossom time:	July
+#####################
+
+######__FLOWER__#####
+Name:	bVrfrnPHZfVfkPxX
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	lRnxHXyhoiflAAEr
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	im-TdKlDKh
+Blossom time:	December
+#####################
+
+######__SHRUB__######
+Name:	HhIAgLmEtdch
+Blossom time:	April
+#####################
+
+######__SHRUB__######
+Name:	xeaewhDxs
+Blossom time:	June
+#####################
+
+######__SHRUB__######
+Name:	MnzKlGREi
+Blossom time:	April
+#####################
+
+######__FLOWER__#####
+Name:	ymSQqOnWJorNRCbgTGk
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	MatwLkwmwIndIT-YY
+Blossom time:	June
+#####################
+
+######__SHRUB__######
+Name:	MVoWSdHixIbZkI-gmEZ
+Blossom time:	February
+#####################
+
+######__SHRUB__######
+Name:	zvWnWsXQy
+Blossom time:	April
+#####################
+
+######__TREE__#######
+Name:	MDugzq
+Age:	6768 y
+#####################
+
+######__SHRUB__######
+Name:	LrtUOu-HVVfLEsngUn
+Blossom time:	July
+#####################
+
+######__FLOWER__#####
+Name:	FRDzksQLOYpKph-vxXL
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	ZlFdrDsfDmjRNFgN
+Age:	4582 y
+#####################
+
+######__SHRUB__######
+Name:	zMlGngPbs-TQ
+Blossom time:	December
+#####################
+
+######__FLOWER__#####
+Name:	SUMvzJcHXXIOBK
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	gRRLBD
+Blossom time:	October
+#####################
+
+######__TREE__#######
+Name:	nOA-CQy-
+Age:	2000 y
+#####################
+
+######__SHRUB__######
+Name:	NZPB-
+Blossom time:	January
+#####################
+
+######__TREE__#######
+Name:	lTyudpnPclKF
+Age:	9220 y
+#####################
+
+######__SHRUB__######
+Name:	J-ivmrQXuXroM
+Blossom time:	December
+#####################
+
+######__SHRUB__######
+Name:	nkqAthff
+Blossom time:	July
+#####################
+
+######__SHRUB__######
+Name:	PWPjKGNl
+Blossom time:	March
+#####################
+
+######__SHRUB__######
+Name:	FGNVvvI
+Blossom time:	July
+#####################
+
+######__FLOWER__#####
+Name:	vnxUZizHlrNzZGhu
+Type:	Domestic
+#####################
+
+######__TREE__#######
+Name:	ZdLDhfOKxlPtXdM-
+Age:	1600 y
+#####################
+
+######__TREE__#######
+Name:	QrORE
+Age:	9347 y
+#####################
+
+######__FLOWER__#####
+Name:	doakuEPlBwug
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	yRHTOtCstnzGyXSRI
+Blossom time:	May
+#####################
+
+######__FLOWER__#####
+Name:	UWfrNHhDKMgvwRuH
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	lyxsjxv
+Age:	8929 y
+#####################
+
+######__FLOWER__#####
+Name:	lAwzbYKlqPPmbaIuKVx
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	PbTmkQMRV
+Blossom time:	March
+#####################
+
+######__TREE__#######
+Name:	CjoKoP-BO
+Age:	7467 y
+#####################
+
+######__SHRUB__######
+Name:	TTKrifcVJtCIy
+Blossom time:	May
+#####################
+
+######__TREE__#######
+Name:	QRtCzFLIWkrPxJTrm
+Age:	8801 y
+#####################
+
+######__FLOWER__#####
+Name:	foiTFojl
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	fHpffwYxeeRK
+Blossom time:	December
+#####################
+
+######__SHRUB__######
+Name:	WnQfAgVNNpUzI
+Blossom time:	November
+#####################
+
+######__TREE__#######
+Name:	yXqmIETuAupIp
+Age:	9574 y
+#####################
+
+######__TREE__#######
+Name:	kfRuw-TtgA
+Age:	5154 y
+#####################
+
+######__SHRUB__######
+Name:	PZoOzicvLwsrklFYy
+Blossom time:	August
+#####################
+
+######__TREE__#######
+Name:	uO-sFpYBdy-cngpNW
+Age:	1363 y
+#####################
+
+######__TREE__#######
+Name:	saeOPCFgrXdheDqhcS
+Age:	2371 y
+#####################
+
+######__FLOWER__#####
+Name:	LgCUNldiB
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	zwJGXpkgWDvldsZbbu
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	XyNkZYGpRQeAv
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	zrFY-Y
+Age:	4670 y
+#####################
+
+######__TREE__#######
+Name:	QfamoY
+Age:	4132 y
+#####################
+
+######__TREE__#######
+Name:	hDF
+Age:	1982 y
+#####################
+
+######__SHRUB__######
+Name:	pRUy-JVnzoRZXU
+Blossom time:	June
+#####################
+
+######__TREE__#######
+Name:	vOUAl
+Age:	9993 y
+#####################
+
+######__TREE__#######
+Name:	-JFPkfl-zRtgMeifDyI
+Age:	3711 y
+#####################
+
+######__FLOWER__#####
+Name:	TvdjUtchtQUBPeA
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	HiNgAsIWvGmK
+Blossom time:	October
+#####################
+
+######__TREE__#######
+Name:	AznXXgrC-yrEC
+Age:	6873 y
+#####################
+
+######__FLOWER__#####
+Name:	YKOMIzyfhM
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	jrU
+Age:	7036 y
+#####################
+
+######__TREE__#######
+Name:	pvopV
+Age:	9807 y
+#####################
+
+######__TREE__#######
+Name:	HodngpUlVmMPC
+Age:	266 y
+#####################
+
+######__TREE__#######
+Name:	-bJSDNKq
+Age:	9680 y
+#####################
+
+######__FLOWER__#####
+Name:	CMRRZKhKaTNrYEi
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	VgHZTqtwBU
+Blossom time:	August
+#####################
+
+######__SHRUB__######
+Name:	cYrnRcZCyRNg
+Blossom time:	October
+#####################
+
+######__TREE__#######
+Name:	EeDNKqVQuW
+Age:	8836 y
+#####################
+
+######__SHRUB__######
+Name:	iaiOhkszdpzbdK
+Blossom time:	December
+#####################
+
+######__FLOWER__#####
+Name:	fOrtD-si-LGDVQ
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	uqaLmBENmXXs-jYom
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	QdtnWkmuJa
+Blossom time:	January
+#####################
+
+######__FLOWER__#####
+Name:	AHjDvGD
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	VTFpoePOOwZ
+Blossom time:	November
+#####################
+
+######__SHRUB__######
+Name:	agYCHEDTbiKM
+Blossom time:	June
+#####################
+
+######__FLOWER__#####
+Name:	gakNnUI
+Type:	Wild
+#####################
+
+######__FLOWER__#####
+Name:	GBFQtiaZfsFCeLbAGBJ
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	UGepCHhJApdEpKa
+Blossom time:	July
+#####################
+
+######__FLOWER__#####
+Name:	JeNl-VifNngxo-PjAP
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	cGjbedFOuJNgXvGC
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	wQL
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	uJHd
+Blossom time:	April
+#####################
+
+######__TREE__#######
+Name:	ggAvqRpfn
+Age:	8812 y
+#####################
+
+######__FLOWER__#####
+Name:	pVL
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	QROhPGVMrfZvCdsSHkz
+Age:	3337 y
+#####################
+
+######__TREE__#######
+Name:	sIAQOwzAbzlYoWZY
+Age:	7296 y
+#####################
+
+######__FLOWER__#####
+Name:	TMMjApaWepDmQnPWUKx
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	XnuQK
+Age:	7190 y
+#####################
+
+######__FLOWER__#####
+Name:	hALGyIeKfYQmp
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	uohUtoTnu
+Age:	6975 y
+#####################
+
+######__TREE__#######
+Name:	EpWk
+Age:	738 y
+#####################
+
+######__FLOWER__#####
+Name:	-YiV
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	NEWWqGpcmzr
+Blossom time:	April
+#####################
+
+######__TREE__#######
+Name:	hWbBamHtbmpoFYwA
+Age:	9500 y
+#####################
+
+######__SHRUB__######
+Name:	dyLyJFygVpDjTFXqenC
+Blossom time:	September
+#####################
+
+######__SHRUB__######
+Name:	VPFUJBkcHtquhV-Cj
+Blossom time:	August
+#####################
+
+######__SHRUB__######
+Name:	bZxK-BxxACxytIL-tPC
+Blossom time:	March
+#####################
+
+######__SHRUB__######
+Name:	YPeAPZsz
+Blossom time:	February
+#####################
+
+######__FLOWER__#####
+Name:	xtKLMDwMU
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	prNzrvkaWy
+Blossom time:	April
+#####################
+
+######__SHRUB__######
+Name:	DeGFjYIQBTT
+Blossom time:	June
+#####################
+
+######__FLOWER__#####
+Name:	mrDlFCcsr
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	MPOJrmNkDzemM
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	lxakNwJawSEU
+Age:	2600 y
+#####################
+
+######__TREE__#######
+Name:	dXOindYhtrbrEvk
+Age:	9067 y
+#####################
+
+######__TREE__#######
+Name:	-DgEwYrLIHy
+Age:	1120 y
+#####################
+
+######__SHRUB__######
+Name:	sEmHhpa
+Blossom time:	April
+#####################
+
+######__TREE__#######
+Name:	eHAXTrstCYu
+Age:	330 y
+#####################
+
+######__SHRUB__######
+Name:	xvY-zmNSEE-B
+Blossom time:	June
+#####################
+
+######__FLOWER__#####
+Name:	tNnxiLrjoOD
+Type:	Domestic
+#####################
+
+######__FLOWER__#####
+Name:	PAFsxZA
+Type:	Garden
+#####################
+
+######__SHRUB__######
+Name:	qlqbAJfh
+Blossom time:	August
+#####################
+
+######__TREE__#######
+Name:	QplkbWRvCVsApE
+Age:	7898 y
+#####################
+
+######__TREE__#######
+Name:	rNiTcOEsRCqkdh
+Age:	9677 y
+#####################
+
+######__SHRUB__######
+Name:	GrGvqHnkMizPxY
+Blossom time:	February
+#####################
+
+######__TREE__#######
+Name:	VlY
+Age:	9500 y
+#####################
+
+######__FLOWER__#####
+Name:	MpyjTEBLvQS
+Type:	Wild
+#####################
+
+######__SHRUB__######
+Name:	jbARjZbva-
+Blossom time:	March
+#####################
+
+######__SHRUB__######
+Name:	mAwOGkZTc
+Blossom time:	July
+#####################
+
+######__SHRUB__######
+Name:	KUphFgShrxuvBOubW
+Blossom time:	May
+#####################
+
+######__TREE__#######
+Name:	eEZjzsxCd
+Age:	7578 y
+#####################
+
+######__FLOWER__#####
+Name:	UwNnvH
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	CEyOoOgWRCrUf
+Age:	5421 y
+#####################
+
+######__SHRUB__######
+Name:	zmDzl-yXnrc
+Blossom time:	March
+#####################
+
+___________________________________________
+-------OUTPUT------
+Number of elements: 1000
+######__FLOWER__#####
+Name:	mrDlFCcsr
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	pVL
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	wQL
+Type:	Wild
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	-bJSDNKq
+Age:	9680 y
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	hDF
+Age:	1982 y
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	PbTmkQMRV
+Blossom time:	March
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	PWPjKGNl
+Blossom time:	March
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	NZPB-
+Blossom time:	January
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	gRRLBD
+Blossom time:	October
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	zMlGngPbs-TQ
+Blossom time:	December
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	ZlFdrDsfDmjRNFgN
+Age:	4582 y
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	bVrfrnPHZfVfkPxX
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	shtwCM
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	HRBCHN
+Age:	1436 y
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	qPv
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	z-GC
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	Wssdhkr
+Age:	5663 y
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	NFL-q
+Blossom time:	June
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	lrnKwslFV
+Blossom time:	February
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	JdZtslgW
+Blossom time:	August
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	cVRzpbH
+Age:	4344 y
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	ztHzpQQkNqGkZ
+Age:	5449 y
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	xPHp
+Blossom time:	April
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	CMmVfLzn
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	sVQXPs
+Blossom time:	July
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	Psq
+Age:	7326 y
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	r-qFDFbH
+Age:	3219 y
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	ThD
+Blossom time:	April
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	WcWnN
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	Rgm
+Blossom time:	February
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	nnvCpr
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	FxgL
+Age:	1450 y
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	BDmCWrQRLRzWsPmBtV
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	fPqqBTMWZhmtVgN
+Age:	6687 y
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	tVq
+Age:	9810 y
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	zGxwcFFbkB
+Blossom time:	November
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	hwjRz
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	wPqMRP-
+Age:	4399 y
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	fhJmnnnJf
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	cndS
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	WGKdG
+Type:	Wild
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	ZsLN
+Blossom time:	May
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	Pzhxzpp
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	nVzM
+Blossom time:	March
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	RQd
+Age:	2473 y
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	ChmvhQ
+Blossom time:	August
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	lShK
+Type:	Wild
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	SXsn
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	XWR
+Age:	677 y
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	gdS
+Type:	Wild
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	s-WdT
+Age:	7350 y
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	mhWNtZDmHmDpnjtw
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	XRSzB
+Age:	6274 y
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	KKSXPVzxV
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	Mpfz
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	vsRWmW
+Blossom time:	October
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	PRHRM
+Type:	Wild
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	Zgsd
+Blossom time:	January
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	GWP
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	KgrTQrzfr
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	rXCkwCv-Jp
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	Jgwvl
+Blossom time:	April
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	RgKcx
+Type:	Wild
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	fWTRb
+Blossom time:	February
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	kKm
+Blossom time:	February
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	tGGnfRcTTBlN
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	RSHLlPJ
+Age:	4737 y
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	MzBRrFS
+Age:	5458 y
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	pst
+Age:	1250 y
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	mhg
+Age:	9472 y
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	tFnJjlN
+Type:	Wild
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	gqDPV-L
+Type:	Wild
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	VChVPjfjl
+Blossom time:	April
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	xtcBZS
+Age:	2952 y
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	Lks
+Blossom time:	October
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	nmcs
+Type:	Wild
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	FmdmgghcGMX
+Blossom time:	December
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	BSnD
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	lHd
+Age:	2542 y
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	vbdfHbt
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	xXz
+Type:	Wild
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	kGMC
+Age:	5404 y
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	TlT
+Age:	8169 y
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	kcMcSfGt
+Blossom time:	December
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	RlhPZLljKN
+Age:	8832 y
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	znq
+Blossom time:	August
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	SwSMTf
+Type:	Domestic
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	pgWN
+Age:	6503 y
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	SFCCx
+Age:	3589 y
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	mHF
+Blossom time:	January
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	KvGv
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	Lpqwm
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	tBZqtwjXk
+Blossom time:	December
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	QqSJ
+Age:	5790 y
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	VccgWGJ
+Blossom time:	June
+#####################
+Relation: 0.000000
+
+######__TREE__#######
+Name:	LVftdPFNnhCrwMCDsKf
+Age:	751 y
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	qdRbr
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	FWwcSB
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	cvfv
+Type:	Garden
+#####################
+Relation: 0.000000
+
+######__SHRUB__######
+Name:	fLl
+Blossom time:	June
+#####################
+Relation: 0.000000
+
+######__FLOWER__#####
+Name:	TdNMGDkhQkVVNYbSvPg
+Type:	Wild
+#####################
+Relation: 0.052632
+
+######__TREE__#######
+Name:	QROhPGVMrfZvCdsSHkz
+Age:	3337 y
+#####################
+Relation: 0.052632
+
+######__FLOWER__#####
+Name:	XaxmKjFLzTMQkttVcj
+Type:	Wild
+#####################
+Relation: 0.055556
+
+######__FLOWER__#####
+Name:	jxKWtOXCntqnkZZcgQ
+Type:	Garden
+#####################
+Relation: 0.055556
+
+######__FLOWER__#####
+Name:	zwJGXpkgWDvldsZbbu
+Type:	Garden
+#####################
+Relation: 0.055556
+
+######__SHRUB__######
+Name:	LQfHLnKbRTVNZsfMy
+Blossom time:	July
+#####################
+Relation: 0.058824
+
+######__TREE__#######
+Name:	dvMJBthmnLoDrfFLh
+Age:	1311 y
+#####################
+Relation: 0.058824
+
+######__FLOWER__#####
+Name:	ZmVjFTXsXfAFcQlSt
+Type:	Wild
+#####################
+Relation: 0.058824
+
+######__TREE__#######
+Name:	x-zBwFXSyZVZQDXlK
+Age:	9576 y
+#####################
+Relation: 0.058824
+
+######__TREE__#######
+Name:	QRtCzFLIWkrPxJTrm
+Age:	8801 y
+#####################
+Relation: 0.058824
+
+######__TREE__#######
+Name:	ZdLDhfOKxlPtXdM-
+Age:	1600 y
+#####################
+Relation: 0.062500
+
+######__FLOWER__#####
+Name:	BXeQjSbLTXSQTCv
+Type:	Domestic
+#####################
+Relation: 0.066667
+
+######__FLOWER__#####
+Name:	FHTHRbfPLMj-oKQ
+Type:	Domestic
+#####################
+Relation: 0.066667
+
+######__FLOWER__#####
+Name:	CgLPijwGZzVdPvj
+Type:	Wild
+#####################
+Relation: 0.066667
+
+######__FLOWER__#####
+Name:	tOGVwlt-LhppZvD
+Type:	Garden
+#####################
+Relation: 0.066667
+
+######__FLOWER__#####
+Name:	kBviSQWwLMFGTLs
+Type:	Wild
+#####################
+Relation: 0.066667
+
+######__TREE__#######
+Name:	sYgxfcTWmMWBTL
+Age:	6368 y
+#####################
+Relation: 0.071429
+
+######__FLOWER__#####
+Name:	sEDRvsgkCPnDZM
+Type:	Wild
+#####################
+Relation: 0.071429
+
+######__SHRUB__######
+Name:	pfGzHgqVFbQtoq
+Blossom time:	May
+#####################
+Relation: 0.071429
+
+######__FLOWER__#####
+Name:	Khz-QZNfwPcHAQ
+Type:	Garden
+#####################
+Relation: 0.071429
+
+######__SHRUB__######
+Name:	FwwMtwFQS-UNr
+Blossom time:	April
+#####################
+Relation: 0.076923
+
+######__FLOWER__#####
+Name:	GGXFWqXDkvWIW
+Type:	Wild
+#####################
+Relation: 0.076923
+
+######__SHRUB__######
+Name:	lCwPdwgQWjuTw
+Blossom time:	October
+#####################
+Relation: 0.076923
+
+######__SHRUB__######
+Name:	zKjSKlzmZzibN
+Blossom time:	October
+#####################
+Relation: 0.076923
+
+######__TREE__#######
+Name:	StjVjetjb-DPG
+Age:	2622 y
+#####################
+Relation: 0.076923
+
+######__TREE__#######
+Name:	mgTSVczNXQZeW
+Age:	3508 y
+#####################
+Relation: 0.076923
+
+######__TREE__#######
+Name:	TMBCNuWWRKrKV
+Age:	8227 y
+#####################
+Relation: 0.076923
+
+######__SHRUB__######
+Name:	szCcYRDJgdCwd
+Blossom time:	June
+#####################
+Relation: 0.076923
+
+######__TREE__#######
+Name:	pohdBZXhRtmwf
+Age:	7830 y
+#####################
+Relation: 0.076923
+
+######__SHRUB__######
+Name:	GfQZRor-QPCKp
+Blossom time:	November
+#####################
+Relation: 0.076923
+
+######__TREE__#######
+Name:	MwjqNJWjeKpw
+Age:	7345 y
+#####################
+Relation: 0.083333
+
+######__SHRUB__######
+Name:	jHNpfxlmCHkO
+Blossom time:	January
+#####################
+Relation: 0.083333
+
+######__FLOWER__#####
+Name:	PwIrkSwWqCRh
+Type:	Domestic
+#####################
+Relation: 0.083333
+
+######__TREE__#######
+Name:	johBdNmkDkxQ
+Age:	933 y
+#####################
+Relation: 0.083333
+
+######__SHRUB__######
+Name:	CGtPSSjbATHK
+Blossom time:	February
+#####################
+Relation: 0.083333
+
+######__SHRUB__######
+Name:	zmDzl-yXnrc
+Blossom time:	March
+#####################
+Relation: 0.090909
+
+######__SHRUB__######
+Name:	NEWWqGpcmzr
+Blossom time:	April
+#####################
+Relation: 0.090909
+
+######__FLOWER__#####
+Name:	rkpMUPFGmkt
+Type:	Wild
+#####################
+Relation: 0.090909
+
+######__TREE__#######
+Name:	cRwGxRWETqf
+Age:	4465 y
+#####################
+Relation: 0.090909
+
+######__FLOWER__#####
+Name:	RTQRNxaCbgM
+Type:	Domestic
+#####################
+Relation: 0.090909
+
+######__FLOWER__#####
+Name:	gAbgPpCjS-x
+Type:	Wild
+#####################
+Relation: 0.090909
+
+######__FLOWER__#####
+Name:	HPMFUDcXkJx
+Type:	Domestic
+#####################
+Relation: 0.090909
+
+######__FLOWER__#####
+Name:	CRuqpCR-gzN
+Type:	Domestic
+#####################
+Relation: 0.090909
+
+######__SHRUB__######
+Name:	WVAZGmTbtZD
+Blossom time:	October
+#####################
+Relation: 0.090909
+
+######__FLOWER__#####
+Name:	mUZHtNtxPlv
+Type:	Garden
+#####################
+Relation: 0.090909
+
+######__SHRUB__######
+Name:	ORVJdnbSJtd
+Blossom time:	September
+#####################
+Relation: 0.090909
+
+######__FLOWER__#####
+Name:	CAjMfPLsKXh
+Type:	Wild
+#####################
+Relation: 0.090909
+
+######__SHRUB__######
+Name:	kDNIBTftfTf
+Blossom time:	September
+#####################
+Relation: 0.090909
+
+######__SHRUB__######
+Name:	VgHZTqtwBU
+Blossom time:	August
+#####################
+Relation: 0.100000
+
+######__SHRUB__######
+Name:	im-TdKlDKh
+Blossom time:	December
+#####################
+Relation: 0.100000
+
+######__FLOWER__#####
+Name:	BLRDLwlxDU
+Type:	Wild
+#####################
+Relation: 0.100000
+
+######__FLOWER__#####
+Name:	nBdaLZLqrd
+Type:	Domestic
+#####################
+Relation: 0.100000
+
+######__TREE__#######
+Name:	SKPbyPvzkC
+Age:	3618 y
+#####################
+Relation: 0.100000
+
+######__SHRUB__######
+Name:	lsDMuZRdVk
+Blossom time:	November
+#####################
+Relation: 0.100000
+
+######__SHRUB__######
+Name:	racmSPjrwf
+Blossom time:	May
+#####################
+Relation: 0.100000
+
+######__TREE__#######
+Name:	FdVzLCe-Bq
+Age:	2959 y
+#####################
+Relation: 0.100000
+
+######__SHRUB__######
+Name:	ckwPMNJKYX
+Blossom time:	August
+#####################
+Relation: 0.100000
+
+######__FLOWER__#####
+Name:	ZUqCjGWKqq
+Type:	Wild
+#####################
+Relation: 0.100000
+
+######__SHRUB__######
+Name:	ZZjuVHMGBn
+Blossom time:	October
+#####################
+Relation: 0.100000
+
+######__SHRUB__######
+Name:	jrQpWokWWX
+Blossom time:	November
+#####################
+Relation: 0.100000
+
+######__SHRUB__######
+Name:	PZdlpJWASV
+Blossom time:	July
+#####################
+Relation: 0.100000
+
+######__TREE__#######
+Name:	vvwBHXExPS
+Age:	5842 y
+#####################
+Relation: 0.100000
+
+######__FLOWER__#####
+Name:	VkySr-bPpr
+Type:	Garden
+#####################
+Relation: 0.100000
+
+######__TREE__#######
+Name:	trADwShnwp
+Age:	5793 y
+#####################
+Relation: 0.100000
+
+######__FLOWER__#####
+Name:	tunFmZdqfw
+Type:	Domestic
+#####################
+Relation: 0.100000
+
+######__TREE__#######
+Name:	IDDhLkbmgULbXJVhgHS
+Age:	9420 y
+#####################
+Relation: 0.105263
+
+######__FLOWER__#####
+Name:	eZwQnuFdDTdvrslCnhG
+Type:	Garden
+#####################
+Relation: 0.105263
+
+######__FLOWER__#####
+Name:	zgeVRFhQTwprLjdrYZl
+Type:	Garden
+#####################
+Relation: 0.105263
+
+######__FLOWER__#####
+Name:	qLbbxYmGFoktzvrkpTR
+Type:	Wild
+#####################
+Relation: 0.105263
+
+######__SHRUB__######
+Name:	wtalmcDrothsMpPSqLp
+Blossom time:	January
+#####################
+Relation: 0.105263
+
+######__SHRUB__######
+Name:	PSDngbDN-cmjVOSjlwe
+Blossom time:	February
+#####################
+Relation: 0.105263
+
+######__FLOWER__#####
+Name:	c-foBsobVNq-JvmjGcN
+Type:	Wild
+#####################
+Relation: 0.105263
+
+######__FLOWER__#####
+Name:	FRDzksQLOYpKph-vxXL
+Type:	Garden
+#####################
+Relation: 0.105263
+
+######__FLOWER__#####
+Name:	xVWOMPfSN
+Type:	Garden
+#####################
+Relation: 0.111111
+
+######__TREE__#######
+Name:	bWDwtAVtl
+Age:	9164 y
+#####################
+Relation: 0.111111
+
+######__TREE__#######
+Name:	fdjMKFncO
+Age:	8575 y
+#####################
+Relation: 0.111111
+
+######__SHRUB__######
+Name:	HMxhqAMrb
+Blossom time:	April
+#####################
+Relation: 0.111111
+
+######__SHRUB__######
+Name:	XXAxdfVqJ
+Blossom time:	October
+#####################
+Relation: 0.111111
+
+######__TREE__#######
+Name:	rXInQGTwK
+Age:	797 y
+#####################
+Relation: 0.111111
+
+######__TREE__#######
+Name:	DfENPWrpM
+Age:	8288 y
+#####################
+Relation: 0.111111
+
+######__TREE__#######
+Name:	ARtkMNklxscxzDrMOs
+Age:	1498 y
+#####################
+Relation: 0.111111
+
+######__TREE__#######
+Name:	zviCCZQbq
+Age:	1412 y
+#####################
+Relation: 0.111111
+
+######__TREE__#######
+Name:	jhHNyVdnH
+Age:	1223 y
+#####################
+Relation: 0.111111
+
+######__TREE__#######
+Name:	fRqhlvmAh
+Age:	9183 y
+#####################
+Relation: 0.111111
+
+######__FLOWER__#####
+Name:	wIcDxlqDW
+Type:	Garden
+#####################
+Relation: 0.111111
+
+######__TREE__#######
+Name:	JVEcprfPW
+Age:	1599 y
+#####################
+Relation: 0.111111
+
+######__SHRUB__######
+Name:	tPhNc-mIHD-saksFvg
+Blossom time:	October
+#####################
+Relation: 0.111111
+
+######__SHRUB__######
+Name:	QsmtunkJwF-RcLyCDK
+Blossom time:	July
+#####################
+Relation: 0.111111
+
+######__FLOWER__#####
+Name:	QWkWHwmQo
+Type:	Garden
+#####################
+Relation: 0.111111
+
+######__SHRUB__######
+Name:	pnbsENWRL
+Blossom time:	March
+#####################
+Relation: 0.111111
+
+######__TREE__#######
+Name:	BzPWCvLxIWutq-VbxV
+Age:	3539 y
+#####################
+Relation: 0.111111
+
+######__FLOWER__#####
+Name:	JTwwtuCXk
+Type:	Domestic
+#####################
+Relation: 0.111111
+
+######__SHRUB__######
+Name:	lnGhRQNdDHKlECWKiC
+Blossom time:	May
+#####################
+Relation: 0.111111
+
+######__SHRUB__######
+Name:	STU-lGKafQFXhRwVmL
+Blossom time:	April
+#####################
+Relation: 0.111111
+
+######__SHRUB__######
+Name:	ZxpIWvxHp
+Blossom time:	August
+#####################
+Relation: 0.111111
+
+######__SHRUB__######
+Name:	FJ-xdipzW
+Blossom time:	July
+#####################
+Relation: 0.111111
+
+######__FLOWER__#####
+Name:	dIXrwtdVK
+Type:	Garden
+#####################
+Relation: 0.111111
+
+######__FLOWER__#####
+Name:	WnqEvxcwG
+Type:	Wild
+#####################
+Relation: 0.111111
+
+######__SHRUB__######
+Name:	zvWnWsXQy
+Blossom time:	April
+#####################
+Relation: 0.111111
+
+######__TREE__#######
+Name:	ggAvqRpfn
+Age:	8812 y
+#####################
+Relation: 0.111111
+
+######__FLOWER__#####
+Name:	xtKLMDwMU
+Type:	Wild
+#####################
+Relation: 0.111111
+
+######__FLOWER__#####
+Name:	tWdXFroTNHzqMsQvO
+Type:	Garden
+#####################
+Relation: 0.117647
+
+######__SHRUB__######
+Name:	TGqMPSwCwcfvBYuPZ
+Blossom time:	July
+#####################
+Relation: 0.117647
+
+######__FLOWER__#####
+Name:	ndesvrnHGGazHvNXj
+Type:	Wild
+#####################
+Relation: 0.117647
+
+######__SHRUB__######
+Name:	VPFUJBkcHtquhV-Cj
+Blossom time:	August
+#####################
+Relation: 0.117647
+
+######__SHRUB__######
+Name:	qlqbAJfh
+Blossom time:	August
+#####################
+Relation: 0.125000
+
+######__FLOWER__#####
+Name:	UWfrNHhDKMgvwRuH
+Type:	Wild
+#####################
+Relation: 0.125000
+
+######__SHRUB__######
+Name:	nkqAthff
+Blossom time:	July
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	XNnPlZHUNujjVMbb
+Age:	195 y
+#####################
+Relation: 0.125000
+
+######__FLOWER__#####
+Name:	LtHomPfQ
+Type:	Wild
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	XvPbx-My
+Age:	8217 y
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	SpLYkWdr
+Age:	947 y
+#####################
+Relation: 0.125000
+
+######__SHRUB__######
+Name:	CepVFjeWSbMpRZdg
+Blossom time:	June
+#####################
+Relation: 0.125000
+
+######__FLOWER__#####
+Name:	m-mgVtpDOgfCQybJ
+Type:	Garden
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	dRchXjYt
+Age:	30 y
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	RRzNUfkv
+Age:	4774 y
+#####################
+Relation: 0.125000
+
+######__SHRUB__######
+Name:	dZHbqdyv
+Blossom time:	February
+#####################
+Relation: 0.125000
+
+######__FLOWER__#####
+Name:	jcdpjJEW
+Type:	Wild
+#####################
+Relation: 0.125000
+
+######__SHRUB__######
+Name:	MTd-RUDk
+Blossom time:	September
+#####################
+Relation: 0.125000
+
+######__FLOWER__#####
+Name:	AqCJ-ZlV
+Type:	Wild
+#####################
+Relation: 0.125000
+
+######__SHRUB__######
+Name:	XrwmcGUN
+Blossom time:	December
+#####################
+Relation: 0.125000
+
+######__FLOWER__#####
+Name:	BptXxBKWEZJHWZuP
+Type:	Garden
+#####################
+Relation: 0.125000
+
+######__SHRUB__######
+Name:	JFrhQMME
+Blossom time:	September
+#####################
+Relation: 0.125000
+
+######__SHRUB__######
+Name:	QK-QtzlpRExNXPeK
+Blossom time:	May
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	bXVWLAsf
+Age:	9729 y
+#####################
+Relation: 0.125000
+
+######__SHRUB__######
+Name:	ElFpJFHr
+Blossom time:	October
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	fhuTNGJjHlPFgquq
+Age:	9585 y
+#####################
+Relation: 0.125000
+
+######__SHRUB__######
+Name:	cLgdtlsJkMYTmswA
+Blossom time:	January
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	ktNMBJLlPVNwynlU
+Age:	2644 y
+#####################
+Relation: 0.125000
+
+######__FLOWER__#####
+Name:	YvTlSnrl
+Type:	Wild
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	mpwBsiJV
+Age:	6884 y
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	JKlIPbGV
+Age:	9549 y
+#####################
+Relation: 0.125000
+
+######__FLOWER__#####
+Name:	QuRfWhQT
+Type:	Wild
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	TRzHMBZvkIHPQa-R
+Age:	2622 y
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	KpVHoFtD
+Age:	3363 y
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	WtpsjedYBzhWJlCK
+Age:	5954 y
+#####################
+Relation: 0.125000
+
+######__SHRUB__######
+Name:	RCtPd-JO
+Blossom time:	March
+#####################
+Relation: 0.125000
+
+######__SHRUB__######
+Name:	XGDcjGEf
+Blossom time:	March
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	pfAQSxNTtLjCXaP
+Age:	573 y
+#####################
+Relation: 0.133333
+
+######__TREE__#######
+Name:	wjnTnmjarddPqQY
+Age:	8823 y
+#####################
+Relation: 0.133333
+
+######__TREE__#######
+Name:	dcnVgivuKVvHPpf
+Age:	3021 y
+#####################
+Relation: 0.133333
+
+######__TREE__#######
+Name:	-QNLnOZEjzmZVxN
+Age:	5925 y
+#####################
+Relation: 0.133333
+
+######__SHRUB__######
+Name:	BSScoqkZ-KjRfVI
+Blossom time:	March
+#####################
+Relation: 0.133333
+
+######__TREE__#######
+Name:	KfFzLQgmdQEoRcC
+Age:	5999 y
+#####################
+Relation: 0.133333
+
+######__FLOWER__#####
+Name:	qxBxHNXfMDECByH
+Type:	Wild
+#####################
+Relation: 0.133333
+
+######__SHRUB__######
+Name:	HzsQzhhBSRXuUn-
+Blossom time:	November
+#####################
+Relation: 0.133333
+
+######__FLOWER__#####
+Name:	FBNYNXLUswxjvTG
+Type:	Wild
+#####################
+Relation: 0.133333
+
+######__SHRUB__######
+Name:	OmMpMKsQneQtTZp
+Blossom time:	August
+#####################
+Relation: 0.133333
+
+######__FLOWER__#####
+Name:	WAyGDhMgZncgKrX
+Type:	Wild
+#####################
+Relation: 0.133333
+
+######__SHRUB__######
+Name:	wVCBSwaHlTQXkeg
+Blossom time:	June
+#####################
+Relation: 0.133333
+
+######__SHRUB__######
+Name:	pFPvtmKkJQSEULR
+Blossom time:	December
+#####################
+Relation: 0.133333
+
+######__FLOWER__#####
+Name:	CZwpusV
+Type:	Wild
+#####################
+Relation: 0.142857
+
+######__FLOWER__#####
+Name:	DNicbDD
+Type:	Domestic
+#####################
+Relation: 0.142857
+
+######__FLOWER__#####
+Name:	-sZjZuP
+Type:	Garden
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	-kzpFnEVJZLafS
+Age:	5765 y
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	UpPrCDk
+Blossom time:	August
+#####################
+Relation: 0.142857
+
+######__FLOWER__#####
+Name:	NpNzVyl
+Type:	Wild
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	xVvjATzIZSGRdD
+Blossom time:	June
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	GiwnSZs
+Blossom time:	November
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	ZKyBWXcSrNaB-n
+Age:	8231 y
+#####################
+Relation: 0.142857
+
+######__FLOWER__#####
+Name:	-XihNJHZXsKJeN
+Type:	Wild
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	INGq-fJaHvXQbl
+Blossom time:	September
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	IFwPRUCspVKWFN
+Age:	6224 y
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	OSqxkCl
+Age:	6430 y
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	zlUMotBHrHdrQC
+Blossom time:	April
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	jRTsre-
+Blossom time:	August
+#####################
+Relation: 0.142857
+
+######__FLOWER__#####
+Name:	tZLdSPKIzCBSON
+Type:	Garden
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	lvZDzBu
+Age:	1389 y
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	PJSAXdCLtqbGOX
+Age:	1508 y
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	xtxVRHJLCQoMWy
+Blossom time:	October
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	nOXtjd-
+Blossom time:	April
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	ZqiNxPh
+Age:	1059 y
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	Jy-jBNm
+Blossom time:	May
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	-qEoBq-BWVxpJb
+Blossom time:	January
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	mmhccyP
+Age:	3142 y
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	oBsrzUdtpwRrLM
+Age:	663 y
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	jXIRdPH
+Blossom time:	March
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	SmSz-mwyNQgVRi
+Age:	1754 y
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	SPSzZOPsIfV-bk
+Age:	4552 y
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	FGNVvvI
+Blossom time:	July
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	lyxsjxv
+Age:	8929 y
+#####################
+Relation: 0.142857
+
+######__FLOWER__#####
+Name:	fOrtD-si-LGDVQ
+Type:	Garden
+#####################
+Relation: 0.142857
+
+######__FLOWER__#####
+Name:	AHjDvGD
+Type:	Garden
+#####################
+Relation: 0.142857
+
+######__TREE__#######
+Name:	QplkbWRvCVsApE
+Age:	7898 y
+#####################
+Relation: 0.142857
+
+######__SHRUB__######
+Name:	GrGvqHnkMizPxY
+Blossom time:	February
+#####################
+Relation: 0.142857
+
+######__FLOWER__#####
+Name:	MPOJrmNkDzemM
+Type:	Garden
+#####################
+Relation: 0.153846
+
+######__TREE__#######
+Name:	HodngpUlVmMPC
+Age:	266 y
+#####################
+Relation: 0.153846
+
+######__SHRUB__######
+Name:	zLWfuwVdtRPvy
+Blossom time:	August
+#####################
+Relation: 0.153846
+
+######__TREE__#######
+Name:	mNuXUxjBTHPVx
+Age:	590 y
+#####################
+Relation: 0.153846
+
+######__SHRUB__######
+Name:	UMjkBtlwOkmBB
+Blossom time:	February
+#####################
+Relation: 0.153846
+
+######__FLOWER__#####
+Name:	UaKMVLrMcMnpd
+Type:	Domestic
+#####################
+Relation: 0.153846
+
+######__SHRUB__######
+Name:	IPQXHhDgymCWp
+Blossom time:	June
+#####################
+Relation: 0.153846
+
+######__FLOWER__#####
+Name:	SxiMGzytQjxxz
+Type:	Domestic
+#####################
+Relation: 0.153846
+
+######__TREE__#######
+Name:	eAvjbbKxxczPs
+Age:	8465 y
+#####################
+Relation: 0.153846
+
+######__SHRUB__######
+Name:	mpodJrXKT-Wos
+Blossom time:	May
+#####################
+Relation: 0.153846
+
+######__TREE__#######
+Name:	vnJXa-YKrJjkw
+Age:	1187 y
+#####################
+Relation: 0.153846
+
+######__TREE__#######
+Name:	qKNaNGTHIjBxP
+Age:	757 y
+#####################
+Relation: 0.153846
+
+######__TREE__#######
+Name:	XnExwzssNfdIG
+Age:	9602 y
+#####################
+Relation: 0.153846
+
+######__FLOWER__#####
+Name:	lGdaTKTwLfbOZ
+Type:	Garden
+#####################
+Relation: 0.153846
+
+######__SHRUB__######
+Name:	fTdMPaRqDlAmg
+Blossom time:	March
+#####################
+Relation: 0.153846
+
+######__TREE__#######
+Name:	ncuTQSucSzMVlQYKVJw
+Age:	5655 y
+#####################
+Relation: 0.157895
+
+######__FLOWER__#####
+Name:	fjVZDQ-HzuhuwYvRTwQ
+Type:	Wild
+#####################
+Relation: 0.157895
+
+######__SHRUB__######
+Name:	QggYmBWXffhhdRlkiuG
+Blossom time:	October
+#####################
+Relation: 0.157895
+
+######__SHRUB__######
+Name:	MrnNOgSGMnICqlGTsKi
+Blossom time:	November
+#####################
+Relation: 0.157895
+
+######__SHRUB__######
+Name:	WZeGWczcNQjDSgipGEx
+Blossom time:	November
+#####################
+Relation: 0.157895
+
+######__FLOWER__#####
+Name:	RczBcJIsBHDOloFZJcC
+Type:	Domestic
+#####################
+Relation: 0.157895
+
+######__FLOWER__#####
+Name:	XvhXtWxAYhHMvJCWZdI
+Type:	Wild
+#####################
+Relation: 0.157895
+
+######__SHRUB__######
+Name:	-EvowLZCsfXcdz-UJTC
+Blossom time:	July
+#####################
+Relation: 0.157895
+
+######__FLOWER__#####
+Name:	MpKQocQaVGYfsMwbzqg
+Type:	Wild
+#####################
+Relation: 0.157895
+
+######__FLOWER__#####
+Name:	ymSQqOnWJorNRCbgTGk
+Type:	Garden
+#####################
+Relation: 0.157895
+
+######__SHRUB__######
+Name:	bZxK-BxxACxytIL-tPC
+Blossom time:	March
+#####################
+Relation: 0.157895
+
+######__SHRUB__######
+Name:	BNKwOJ
+Blossom time:	May
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	UqSfmtPgIVxDesRxbN
+Blossom time:	February
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	CjtKAqAlqqrZnxNsnA
+Type:	Domestic
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	vQvGug
+Age:	1807 y
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	brZmQe
+Type:	Wild
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	HcO-Bp
+Type:	Domestic
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	hBAOIbp-tsWdhkxxqB
+Age:	5913 y
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	MGjEcJPgExkC
+Blossom time:	February
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	DMyTHr
+Type:	Domestic
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	IYGFFZJjRUfpRxFTKM
+Type:	Garden
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	hSEuPivZqNfwcMWKCl
+Blossom time:	July
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	PUpHHz
+Blossom time:	September
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	rLmMI-
+Age:	1014 y
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	EFFRflJhRQqu
+Blossom time:	September
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	PQvUmn
+Age:	1630 y
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	UTcwJB
+Age:	318 y
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	wNYDcm
+Blossom time:	July
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	zjtzni
+Type:	Garden
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	sIXJcR
+Age:	7296 y
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	GsCcUg
+Blossom time:	July
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	WIWtfQHOWblW
+Age:	1429 y
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	glMPAyCKp-LL
+Type:	Garden
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	PGrahosCNhrV
+Age:	496 y
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	CUXnhbBZgAjd
+Type:	Garden
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	erdLfeTjg-zN
+Blossom time:	November
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	KuPMenvVPKQF
+Type:	Domestic
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	ZnWBmMQuqiWL
+Type:	Garden
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	RlUXxH
+Blossom time:	June
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	VmfIPV
+Blossom time:	April
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	-hSZu-DzrHXe
+Type:	Wild
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	MOPfws
+Age:	9281 y
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	lelKRNSNrN-a
+Type:	Garden
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	SXRzeH
+Type:	Wild
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	tbnTzI
+Blossom time:	October
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	gVpFbDOcemlz
+Age:	8156 y
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	FvFpwHERJBCOsbAMxS
+Type:	Garden
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	tFmqYq
+Age:	6799 y
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	Rd-OlAjmfvp-
+Blossom time:	May
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	kvKvsO
+Age:	8603 y
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	qzNUfQ
+Blossom time:	September
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	cgRUlM
+Blossom time:	February
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	ZeVwdB
+Type:	Garden
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	SPqxEIzkmLUcnXVnTk
+Age:	6588 y
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	HhkRaw
+Type:	Garden
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	giwJ-D
+Type:	Garden
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	WnlZBKDkApTKyKmaNC
+Type:	Garden
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	BuVs-H
+Blossom time:	July
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	MDugzq
+Age:	6768 y
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	lTyudpnPclKF
+Age:	9220 y
+#####################
+Relation: 0.166667
+
+######__SHRUB__######
+Name:	cYrnRcZCyRNg
+Blossom time:	October
+#####################
+Relation: 0.166667
+
+######__FLOWER__#####
+Name:	UwNnvH
+Type:	Garden
+#####################
+Relation: 0.166667
+
+######__TREE__#######
+Name:	bDTushFGAJlBlOQBl
+Age:	3299 y
+#####################
+Relation: 0.176471
+
+######__TREE__#######
+Name:	XMxu-WyKNwZtrzqZI
+Age:	3113 y
+#####################
+Relation: 0.176471
+
+######__TREE__#######
+Name:	BsEkrbdnOHpxgeSmK
+Age:	4879 y
+#####################
+Relation: 0.176471
+
+######__SHRUB__######
+Name:	FtxQkcvSocFx-oqTo
+Blossom time:	May
+#####################
+Relation: 0.176471
+
+######__FLOWER__#####
+Name:	wEDNBuFwXOGDHlDNN
+Type:	Domestic
+#####################
+Relation: 0.176471
+
+######__SHRUB__######
+Name:	KwUlnzNrtAXGIbvvM
+Blossom time:	September
+#####################
+Relation: 0.176471
+
+######__TREE__#######
+Name:	-pWHJ-gLrLyotDedR
+Age:	234 y
+#####################
+Relation: 0.176471
+
+######__TREE__#######
+Name:	QxPYUNHzLcRXfFzIC
+Age:	1885 y
+#####################
+Relation: 0.176471
+
+######__TREE__#######
+Name:	piGLtFNSemWpwohDL
+Age:	6775 y
+#####################
+Relation: 0.176471
+
+######__SHRUB__######
+Name:	dvD-jfOsoWCpfBLvu
+Blossom time:	November
+#####################
+Relation: 0.176471
+
+######__TREE__#######
+Name:	qhUZmcveJkmQSQZOg
+Age:	1911 y
+#####################
+Relation: 0.176471
+
+######__FLOWER__#####
+Name:	MxKeDrArrCckagWfK
+Type:	Domestic
+#####################
+Relation: 0.176471
+
+######__SHRUB__######
+Name:	YVzzeyRXjtQvQpdMB
+Blossom time:	August
+#####################
+Relation: 0.176471
+
+######__TREE__#######
+Name:	wK-VWUwHFagrPCaSL
+Age:	7492 y
+#####################
+Relation: 0.176471
+
+######__FLOWER__#####
+Name:	HbVydgJwgKTYTHvBi
+Type:	Wild
+#####################
+Relation: 0.176471
+
+######__TREE__#######
+Name:	YSlCcGiCCpLGAWSrZ
+Age:	7769 y
+#####################
+Relation: 0.176471
+
+######__FLOWER__#####
+Name:	JTXkPXpxaBkJaViMq
+Type:	Garden
+#####################
+Relation: 0.176471
+
+######__TREE__#######
+Name:	GytztuWQXSSrSKeLR
+Age:	1269 y
+#####################
+Relation: 0.176471
+
+######__FLOWER__#####
+Name:	XrmZldpAUhvaRnTSr
+Type:	Domestic
+#####################
+Relation: 0.176471
+
+######__FLOWER__#####
+Name:	MpyjTEBLvQS
+Type:	Wild
+#####################
+Relation: 0.181818
+
+######__FLOWER__#####
+Name:	ICQhJkFeBXL
+Type:	Garden
+#####################
+Relation: 0.181818
+
+######__SHRUB__######
+Name:	fpytckZPUFS
+Blossom time:	October
+#####################
+Relation: 0.181818
+
+######__TREE__#######
+Name:	orsiQfhJPnz
+Age:	7316 y
+#####################
+Relation: 0.181818
+
+######__TREE__#######
+Name:	k-GAwDsgpyb
+Age:	7599 y
+#####################
+Relation: 0.181818
+
+######__TREE__#######
+Name:	hSaWZrvQOZB
+Age:	6962 y
+#####################
+Relation: 0.181818
+
+######__FLOWER__#####
+Name:	GRlhNEyNkwp
+Type:	Garden
+#####################
+Relation: 0.181818
+
+######__TREE__#######
+Name:	qWJwjqbiqYT
+Age:	6792 y
+#####################
+Relation: 0.181818
+
+######__SHRUB__######
+Name:	NYVDvfApZdX
+Blossom time:	January
+#####################
+Relation: 0.181818
+
+######__SHRUB__######
+Name:	fOhMSStnMig
+Blossom time:	January
+#####################
+Relation: 0.181818
+
+######__FLOWER__#####
+Name:	cGjbedFOuJNgXvGC
+Type:	Domestic
+#####################
+Relation: 0.187500
+
+######__FLOWER__#####
+Name:	vnxUZizHlrNzZGhu
+Type:	Domestic
+#####################
+Relation: 0.187500
+
+######__TREE__#######
+Name:	PwnXRxgAQs-wbOhy
+Age:	9792 y
+#####################
+Relation: 0.187500
+
+######__SHRUB__######
+Name:	TxFGYKcLGazyfbMM
+Blossom time:	October
+#####################
+Relation: 0.187500
+
+######__SHRUB__######
+Name:	KhmirGzUZfQYrmkp
+Blossom time:	August
+#####################
+Relation: 0.187500
+
+######__TREE__#######
+Name:	FCxxdviqgSsCELUV
+Age:	7383 y
+#####################
+Relation: 0.187500
+
+######__FLOWER__#####
+Name:	SVBgFjTnwiOFModq
+Type:	Domestic
+#####################
+Relation: 0.187500
+
+######__TREE__#######
+Name:	BptZfcFiKVleQDYD
+Age:	9899 y
+#####################
+Relation: 0.187500
+
+######__SHRUB__######
+Name:	ZvLyYjZjjyqCDFXT
+Blossom time:	May
+#####################
+Relation: 0.187500
+
+######__TREE__#######
+Name:	lbORyQTPoTnBPbzS
+Age:	7676 y
+#####################
+Relation: 0.187500
+
+######__SHRUB__######
+Name:	cPmbumDadqz-vgqU
+Blossom time:	February
+#####################
+Relation: 0.187500
+
+######__FLOWER__#####
+Name:	HerZliJyVFpldbPf
+Type:	Wild
+#####################
+Relation: 0.187500
+
+######__TREE__#######
+Name:	xobgduXtIRCRfC-v
+Age:	8122 y
+#####################
+Relation: 0.187500
+
+######__SHRUB__######
+Name:	jbARjZbva-
+Blossom time:	March
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	prNzrvkaWy
+Blossom time:	April
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	XnuQK
+Age:	7190 y
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	QdtnWkmuJa
+Blossom time:	January
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	pvopV
+Age:	9807 y
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	kfRuw-TtgA
+Age:	5154 y
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	CiKTg
+Age:	1934 y
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	dlgOD
+Blossom time:	July
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	OAUfpJjqxMwXmCV
+Type:	Garden
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	mQWSLSchIoMagsv
+Age:	8927 y
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	FTrVMfbyLAYkJfp
+Blossom time:	July
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	HntYLFQ-HnFYQDI
+Blossom time:	July
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	PqKpo
+Type:	Wild
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	PAPgHkVZqrUYXLn
+Blossom time:	November
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	EKDMX
+Age:	2213 y
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	dHvWsFodQGbIcPy
+Age:	2815 y
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	UDPKLRoSsp
+Blossom time:	March
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	kYd-XnevqHosqkv
+Age:	7783 y
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	TgRMSCNhOEMMxpE
+Blossom time:	November
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	YkzjxNqYUQFVbnS
+Blossom time:	December
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	ICBXBBjidVOPFrS
+Type:	Domestic
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	SInwbhWiYZswQRx
+Type:	Domestic
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	kkCqUfEZsm
+Blossom time:	March
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	wfXuC
+Type:	Domestic
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	uMGqK
+Type:	Domestic
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	-XLmu
+Type:	Garden
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	YvjvzGDMaW
+Type:	Garden
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	GCKAYfxCft
+Type:	Garden
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	ugvSf
+Type:	Domestic
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	DgfuSrXGOj
+Blossom time:	December
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	dBowCbqM-YlKrda
+Age:	9768 y
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	ryZlXrXLFA
+Blossom time:	February
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	IrSHQ
+Blossom time:	August
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	KEJXq
+Type:	Domestic
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	RogbDyGSDb
+Age:	7610 y
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	u-VgWVhdlU
+Type:	Domestic
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	lKNLFisXydoHztR
+Type:	Domestic
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	wTMda
+Age:	6269 y
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	zbrqQZJEJYBxIgp
+Type:	Wild
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	rPCvzaJwAwmnQUH
+Blossom time:	March
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	uRrWsPIbTk
+Blossom time:	November
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	zvdIH
+Age:	1698 y
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	UDfHBJ-qfFazmop
+Age:	6721 y
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	mdgYXzdlsTGToyF
+Age:	8873 y
+#####################
+Relation: 0.200000
+
+######__FLOWER__#####
+Name:	ynr-j
+Type:	Wild
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	dwLXpGtUqa
+Age:	9470 y
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	LxxQqoQnWO
+Blossom time:	September
+#####################
+Relation: 0.200000
+
+######__TREE__#######
+Name:	faLgq
+Age:	4858 y
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	lfKYJROhySbNPNLycXj
+Blossom time:	April
+#####################
+Relation: 0.210526
+
+######__TREE__#######
+Name:	DlOlqKMkUuhARmdlTqb
+Age:	4064 y
+#####################
+Relation: 0.210526
+
+######__TREE__#######
+Name:	MJbOOziopCwx-smsZHx
+Age:	7707 y
+#####################
+Relation: 0.210526
+
+######__FLOWER__#####
+Name:	jonlq-jZZzt-qsshiuA
+Type:	Garden
+#####################
+Relation: 0.210526
+
+######__FLOWER__#####
+Name:	th-GeOVwbkjqavQUHZm
+Type:	Domestic
+#####################
+Relation: 0.210526
+
+######__TREE__#######
+Name:	OzmoBidQLKNxbWXMlGE
+Age:	4987 y
+#####################
+Relation: 0.210526
+
+######__TREE__#######
+Name:	gMGOSypmvllqqHOlHYg
+Age:	7131 y
+#####################
+Relation: 0.210526
+
+######__SHRUB__######
+Name:	ngy-BafegbXKLckaBxj
+Blossom time:	March
+#####################
+Relation: 0.210526
+
+######__SHRUB__######
+Name:	ekv-fNjqbWWKqqeyIfb
+Blossom time:	January
+#####################
+Relation: 0.210526
+
+######__SHRUB__######
+Name:	hMgvBcuXthSUHrraTId
+Blossom time:	June
+#####################
+Relation: 0.210526
+
+######__TREE__#######
+Name:	juNnXQPHcnZpxjtIAAv
+Age:	1876 y
+#####################
+Relation: 0.210526
+
+######__FLOWER__#####
+Name:	mYZAjSnBwETMbOvspbX
+Type:	Domestic
+#####################
+Relation: 0.210526
+
+######__TREE__#######
+Name:	-JFPkfl-zRtgMeifDyI
+Age:	3711 y
+#####################
+Relation: 0.210526
+
+######__FLOWER__#####
+Name:	GBFQtiaZfsFCeLbAGBJ
+Type:	Garden
+#####################
+Relation: 0.210526
+
+######__FLOWER__#####
+Name:	TMMjApaWepDmQnPWUKx
+Type:	Garden
+#####################
+Relation: 0.210526
+
+######__SHRUB__######
+Name:	dyLyJFygVpDjTFXqenC
+Blossom time:	September
+#####################
+Relation: 0.210526
+
+######__FLOWER__#####
+Name:	VSJSdyzaaTHS-h
+Type:	Wild
+#####################
+Relation: 0.214286
+
+######__TREE__#######
+Name:	rDkpdToBuSgfJu
+Age:	2358 y
+#####################
+Relation: 0.214286
+
+######__TREE__#######
+Name:	vSdosVxmDESasr
+Age:	1199 y
+#####################
+Relation: 0.214286
+
+######__FLOWER__#####
+Name:	Rmcec-XyPEPSkp
+Type:	Wild
+#####################
+Relation: 0.214286
+
+######__SHRUB__######
+Name:	feqXLOzwoJxzTV
+Blossom time:	September
+#####################
+Relation: 0.214286
+
+######__SHRUB__######
+Name:	YfPqaXSNzDjMoW
+Blossom time:	July
+#####################
+Relation: 0.214286
+
+######__TREE__#######
+Name:	nAjrJlmrFVKaVO
+Age:	2099 y
+#####################
+Relation: 0.214286
+
+######__TREE__#######
+Name:	GLoMQzsOyXhC-z
+Age:	6503 y
+#####################
+Relation: 0.214286
+
+######__TREE__#######
+Name:	ITjxajxGkZdLOZ
+Age:	6296 y
+#####################
+Relation: 0.214286
+
+######__SHRUB__######
+Name:	vAMctmVAONRVmP
+Blossom time:	November
+#####################
+Relation: 0.214286
+
+######__TREE__#######
+Name:	lJjewwnGyzotHg
+Age:	1309 y
+#####################
+Relation: 0.214286
+
+######__TREE__#######
+Name:	LskrdUxryBhGiT
+Age:	5978 y
+#####################
+Relation: 0.214286
+
+######__SHRUB__######
+Name:	AQVg-noxjLtbot
+Blossom time:	May
+#####################
+Relation: 0.214286
+
+######__SHRUB__######
+Name:	CXIWLFXPQMubpi
+Blossom time:	March
+#####################
+Relation: 0.214286
+
+######__FLOWER__#####
+Name:	SUMvzJcHXXIOBK
+Type:	Garden
+#####################
+Relation: 0.214286
+
+######__TREE__#######
+Name:	rNiTcOEsRCqkdh
+Age:	9677 y
+#####################
+Relation: 0.214286
+
+######__FLOWER__#####
+Name:	WTqwUTPGEMcLVsSYta
+Type:	Wild
+#####################
+Relation: 0.222222
+
+######__TREE__#######
+Name:	bKISDZfRzaAVjzAmGW
+Age:	5348 y
+#####################
+Relation: 0.222222
+
+######__SHRUB__######
+Name:	PbgROfvgA
+Blossom time:	February
+#####################
+Relation: 0.222222
+
+######__SHRUB__######
+Name:	bRnOxqebETJFgucZQ-
+Blossom time:	July
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	cIPmRBnmA
+Type:	Wild
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	jPlouxnvlzopMDFutr
+Type:	Garden
+#####################
+Relation: 0.222222
+
+######__TREE__#######
+Name:	BpMYlRPzxdDyQheiDl
+Age:	9299 y
+#####################
+Relation: 0.222222
+
+######__TREE__#######
+Name:	vfyagPXzM
+Age:	6200 y
+#####################
+Relation: 0.222222
+
+######__TREE__#######
+Name:	kgewCCUjKHdhcmwOqa
+Age:	4718 y
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	ANrYFPgqsaPpmBPXfi
+Type:	Garden
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	HHHKesLrY
+Type:	Wild
+#####################
+Relation: 0.222222
+
+######__TREE__#######
+Name:	qWPReGOFs
+Age:	6090 y
+#####################
+Relation: 0.222222
+
+######__TREE__#######
+Name:	gSNRxzAWa
+Age:	4310 y
+#####################
+Relation: 0.222222
+
+######__SHRUB__######
+Name:	jtcaNaKfQ
+Blossom time:	September
+#####################
+Relation: 0.222222
+
+######__SHRUB__######
+Name:	dTpQQYSNawcwrurOCs
+Blossom time:	September
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	JCBehtMOm
+Type:	Garden
+#####################
+Relation: 0.222222
+
+######__SHRUB__######
+Name:	soTepvKqP
+Blossom time:	June
+#####################
+Relation: 0.222222
+
+######__SHRUB__######
+Name:	wJKoXywsw
+Blossom time:	November
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	PzyUnQXdW
+Type:	Domestic
+#####################
+Relation: 0.222222
+
+######__TREE__#######
+Name:	CBVByvAHw
+Age:	8794 y
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	zgatRMQsGUUrSMEDbh
+Type:	Wild
+#####################
+Relation: 0.222222
+
+######__SHRUB__######
+Name:	jklOMLiqH
+Blossom time:	February
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	Gmw-ykxaT
+Type:	Domestic
+#####################
+Relation: 0.222222
+
+######__SHRUB__######
+Name:	LKEeqhJoCFHHCSbasx
+Blossom time:	December
+#####################
+Relation: 0.222222
+
+######__TREE__#######
+Name:	lhzBSQpsD-buEyGDxy
+Age:	5152 y
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	IkCEhCtTj
+Type:	Domestic
+#####################
+Relation: 0.222222
+
+######__SHRUB__######
+Name:	ZkzdaduMlisVovTgTd
+Blossom time:	June
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	QkJUyFNWx
+Type:	Domestic
+#####################
+Relation: 0.222222
+
+######__SHRUB__######
+Name:	MnzKlGREi
+Blossom time:	April
+#####################
+Relation: 0.222222
+
+######__TREE__#######
+Name:	saeOPCFgrXdheDqhcS
+Age:	2371 y
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	LgCUNldiB
+Type:	Garden
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	JeNl-VifNngxo-PjAP
+Type:	Domestic
+#####################
+Relation: 0.222222
+
+######__SHRUB__######
+Name:	mAwOGkZTc
+Blossom time:	July
+#####################
+Relation: 0.222222
+
+######__TREE__#######
+Name:	eEZjzsxCd
+Age:	7578 y
+#####################
+Relation: 0.222222
+
+######__TREE__#######
+Name:	AznXXgrC-yrEC
+Age:	6873 y
+#####################
+Relation: 0.230769
+
+######__SHRUB__######
+Name:	WnQfAgVNNpUzI
+Blossom time:	November
+#####################
+Relation: 0.230769
+
+######__SHRUB__######
+Name:	TTKrifcVJtCIy
+Blossom time:	May
+#####################
+Relation: 0.230769
+
+######__SHRUB__######
+Name:	J-ivmrQXuXroM
+Blossom time:	December
+#####################
+Relation: 0.230769
+
+######__TREE__#######
+Name:	WPbHcCYUUwkqk
+Age:	9812 y
+#####################
+Relation: 0.230769
+
+######__TREE__#######
+Name:	bAp-zhPfoepRv
+Age:	8537 y
+#####################
+Relation: 0.230769
+
+######__FLOWER__#####
+Name:	UKPWqiGDzgSJa
+Type:	Garden
+#####################
+Relation: 0.230769
+
+######__SHRUB__######
+Name:	BtuYRxnoTnTrN
+Blossom time:	December
+#####################
+Relation: 0.230769
+
+######__TREE__#######
+Name:	LEjOlifVqLbrm
+Age:	8095 y
+#####################
+Relation: 0.230769
+
+######__SHRUB__######
+Name:	megTHMYulNBxj
+Blossom time:	March
+#####################
+Relation: 0.230769
+
+######__TREE__#######
+Name:	TVkrZUFnbEBac
+Age:	8719 y
+#####################
+Relation: 0.230769
+
+######__TREE__#######
+Name:	kMvvAvFPSONKi
+Age:	4744 y
+#####################
+Relation: 0.230769
+
+######__TREE__#######
+Name:	GBSJSnVAGiYmm
+Age:	1755 y
+#####################
+Relation: 0.230769
+
+######__FLOWER__#####
+Name:	v-IpjzZ-Sdbai
+Type:	Wild
+#####################
+Relation: 0.230769
+
+######__TREE__#######
+Name:	rdylxzBdWigyLJAmq
+Age:	7799 y
+#####################
+Relation: 0.235294
+
+######__FLOWER__#####
+Name:	yajoyk-fggcffXFtG
+Type:	Wild
+#####################
+Relation: 0.235294
+
+######__FLOWER__#####
+Name:	MaPNtrb-zWiLwNoxO
+Type:	Domestic
+#####################
+Relation: 0.235294
+
+######__FLOWER__#####
+Name:	zQebGfXeKoH-HHjXe
+Type:	Garden
+#####################
+Relation: 0.235294
+
+######__SHRUB__######
+Name:	gBhhAsGkG-zsiuRRy
+Blossom time:	February
+#####################
+Relation: 0.235294
+
+######__FLOWER__#####
+Name:	JQxwwTjRzIvhNIguO
+Type:	Wild
+#####################
+Relation: 0.235294
+
+######__FLOWER__#####
+Name:	AX-DkZYVRhhNOmSEC
+Type:	Wild
+#####################
+Relation: 0.235294
+
+######__TREE__#######
+Name:	SSeypZXKBlSUxdGEC
+Age:	4506 y
+#####################
+Relation: 0.235294
+
+######__FLOWER__#####
+Name:	XBEKCChMIHIlwmCPy
+Type:	Wild
+#####################
+Relation: 0.235294
+
+######__SHRUB__######
+Name:	gODFzpvuAjwycjkvR
+Blossom time:	October
+#####################
+Relation: 0.235294
+
+######__TREE__#######
+Name:	FoeEfLQslhiVgZwjr
+Age:	2799 y
+#####################
+Relation: 0.235294
+
+######__TREE__#######
+Name:	GQGeAHQDyXfXLiMVG
+Age:	3923 y
+#####################
+Relation: 0.235294
+
+######__SHRUB__######
+Name:	yRHTOtCstnzGyXSRI
+Blossom time:	May
+#####################
+Relation: 0.235294
+
+######__TREE__#######
+Name:	uO-sFpYBdy-cngpNW
+Age:	1363 y
+#####################
+Relation: 0.235294
+
+######__SHRUB__######
+Name:	KUphFgShrxuvBOubW
+Blossom time:	May
+#####################
+Relation: 0.235294
+
+######__SHRUB__######
+Name:	xvY-zmNSEE-B
+Blossom time:	June
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	hWbBamHtbmpoFYwA
+Age:	9500 y
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	EpWk
+Age:	738 y
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	uJHd
+Blossom time:	April
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	HiNgAsIWvGmK
+Blossom time:	October
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	fHpffwYxeeRK
+Blossom time:	December
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	HhIAgLmEtdch
+Blossom time:	April
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	wKgrlo-XwbHIbZYU
+Age:	6746 y
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	fzyX
+Blossom time:	October
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	AUBsCHLsAhfh
+Blossom time:	January
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	TPno
+Blossom time:	July
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	wdmO
+Age:	3127 y
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	ASNfcyVc
+Age:	7234 y
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	TUqr
+Blossom time:	November
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	Iwgg
+Age:	1640 y
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	jDZo
+Blossom time:	December
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	WEkFgD-E
+Age:	8073 y
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	lrkaokbj
+Blossom time:	November
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	EmBuVhKZOo-sWbhR
+Age:	6609 y
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	uBWF
+Type:	Garden
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	mIZJHEFOMcaBgTX-
+Age:	4377 y
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	TdIt
+Type:	Domestic
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	ySZZcIskyWfv
+Age:	4149 y
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	CDpYxyiWrSbn
+Age:	7102 y
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	yzAxQSVx
+Type:	Wild
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	EGYBSLcd
+Type:	Garden
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	bjoZ
+Age:	9271 y
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	iFdQeFCZ
+Type:	Garden
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	HxPi
+Age:	5208 y
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	pIcw
+Type:	Domestic
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	oGEfHWZRGuRb
+Age:	1074 y
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	nJRwuJwmUBOpJawc
+Type:	Garden
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	zhy-
+Type:	Domestic
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	TrnwSnAO
+Age:	4191 y
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	AaoSfcDgrPbxtAsn
+Type:	Wild
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	lDQgIEVojCcj
+Type:	Wild
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	ywJaDHVf
+Blossom time:	July
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	ytvHtYfL
+Type:	Garden
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	PDtdyQAf
+Age:	9846 y
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	OvdhnaPkqt-i
+Blossom time:	April
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	rZIxWkDzVzMyfAca
+Age:	9886 y
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	uFhansq-tXsoYLkt
+Blossom time:	August
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	ItOpzYiBXQ-XZSLk
+Age:	8171 y
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	MiyH-IzHvJfV
+Age:	4993 y
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	bZeoZRCd
+Type:	Wild
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	DHKcXboi
+Type:	Garden
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	XAXxALJC
+Type:	Domestic
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	pVIIDqjSJtIs
+Blossom time:	July
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	f-pxVbeE
+Type:	Wild
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	hSoD
+Age:	5225 y
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	TdlFKhMKuARI
+Blossom time:	February
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	SNUJ
+Type:	Garden
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	PvIr
+Age:	9165 y
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	Hdku
+Age:	8663 y
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	AbgjqInx
+Blossom time:	October
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	COZX
+Age:	2215 y
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	BZyZQfrO
+Blossom time:	December
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	iqxCJAGP
+Type:	Garden
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	nExk
+Blossom time:	January
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	ucixbJxh
+Blossom time:	July
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	-gTrXJKpOfYa
+Age:	3415 y
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	FpeyvnbDTYSr
+Type:	Garden
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	IEfdcRBAmnPJ
+Type:	Wild
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	UhjpytslyZgr
+Blossom time:	January
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	CHEVNBLfeaUTnvJQ
+Age:	5166 y
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	keSq
+Type:	Wild
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	ilYGxYGackclmlch
+Age:	8885 y
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	ImaKkrBW
+Type:	Domestic
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	-UNG
+Age:	6105 y
+#####################
+Relation: 0.250000
+
+######__SHRUB__######
+Name:	VrYwmitm
+Blossom time:	August
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	urVx
+Age:	4896 y
+#####################
+Relation: 0.250000
+
+######__TREE__#######
+Name:	klaWTuGWHxIarjNgVoG
+Age:	5620 y
+#####################
+Relation: 0.263158
+
+######__FLOWER__#####
+Name:	PTkzNBkqvoGxbIBUiBY
+Type:	Wild
+#####################
+Relation: 0.263158
+
+######__TREE__#######
+Name:	htyjIsCadBLGfhIuRzt
+Age:	5683 y
+#####################
+Relation: 0.263158
+
+######__SHRUB__######
+Name:	hzOzqiTrXAnebMjJGhy
+Blossom time:	March
+#####################
+Relation: 0.263158
+
+######__FLOWER__#####
+Name:	KobHoxCsMXInJPrROru
+Type:	Garden
+#####################
+Relation: 0.263158
+
+######__SHRUB__######
+Name:	skkVUEtPwfsUqbekeNp
+Blossom time:	July
+#####################
+Relation: 0.263158
+
+######__TREE__#######
+Name:	OigntcnDojkVOVcWUwQ
+Age:	7182 y
+#####################
+Relation: 0.263158
+
+######__SHRUB__######
+Name:	OnOHUgPrOKhNzyCtTDV
+Blossom time:	December
+#####################
+Relation: 0.263158
+
+######__TREE__#######
+Name:	KUTmSlhoEAhlFpHMVJo
+Age:	8341 y
+#####################
+Relation: 0.263158
+
+######__FLOWER__#####
+Name:	fGnnnHsnuuAlhJSzokU
+Type:	Domestic
+#####################
+Relation: 0.263158
+
+######__FLOWER__#####
+Name:	pzdOeA-uWBfzLmmqDam
+Type:	Domestic
+#####################
+Relation: 0.263158
+
+######__SHRUB__######
+Name:	MVoWSdHixIbZkI-gmEZ
+Blossom time:	February
+#####################
+Relation: 0.263158
+
+######__FLOWER__#####
+Name:	lAwzbYKlqPPmbaIuKVx
+Type:	Domestic
+#####################
+Relation: 0.263158
+
+######__SHRUB__######
+Name:	cxBkBtITbsANveE
+Blossom time:	October
+#####################
+Relation: 0.266667
+
+######__SHRUB__######
+Name:	luLyLldmEgpCymb
+Blossom time:	January
+#####################
+Relation: 0.266667
+
+######__TREE__#######
+Name:	JJqHOBaVRNBVtUo
+Age:	507 y
+#####################
+Relation: 0.266667
+
+######__SHRUB__######
+Name:	AePOjxfqRtDLySs
+Blossom time:	January
+#####################
+Relation: 0.266667
+
+######__TREE__#######
+Name:	XMqZXEqpMYJpYoB
+Age:	7674 y
+#####################
+Relation: 0.266667
+
+######__FLOWER__#####
+Name:	aEFZX-ndcwqUWeV
+Type:	Garden
+#####################
+Relation: 0.266667
+
+######__TREE__#######
+Name:	JLYVBtIWuFFOFWv
+Age:	5138 y
+#####################
+Relation: 0.266667
+
+######__TREE__#######
+Name:	qeIpvVwbCiqUL-N
+Age:	7709 y
+#####################
+Relation: 0.266667
+
+######__FLOWER__#####
+Name:	pIhjdozQQZUZkIM
+Type:	Garden
+#####################
+Relation: 0.266667
+
+######__FLOWER__#####
+Name:	TvdjUtchtQUBPeA
+Type:	Wild
+#####################
+Relation: 0.266667
+
+######__FLOWER__#####
+Name:	CMRRZKhKaTNrYEi
+Type:	Wild
+#####################
+Relation: 0.266667
+
+######__TREE__#######
+Name:	dXOindYhtrbrEvk
+Age:	9067 y
+#####################
+Relation: 0.266667
+
+######__FLOWER__#####
+Name:	CIzWJLhoeFt
+Type:	Domestic
+#####################
+Relation: 0.272727
+
+######__TREE__#######
+Name:	hgAOaSprBRK
+Age:	3138 y
+#####################
+Relation: 0.272727
+
+######__TREE__#######
+Name:	BwIMjeTReTw
+Age:	1941 y
+#####################
+Relation: 0.272727
+
+######__SHRUB__######
+Name:	-zKRVOIUmJS
+Blossom time:	November
+#####################
+Relation: 0.272727
+
+######__FLOWER__#####
+Name:	zqrnTBdAUuT
+Type:	Wild
+#####################
+Relation: 0.272727
+
+######__SHRUB__######
+Name:	aTuHDVZqxNI
+Blossom time:	April
+#####################
+Relation: 0.272727
+
+######__SHRUB__######
+Name:	Y-zaulmjJPJ
+Blossom time:	December
+#####################
+Relation: 0.272727
+
+######__FLOWER__#####
+Name:	IAEjwxpzHfh
+Type:	Wild
+#####################
+Relation: 0.272727
+
+######__SHRUB__######
+Name:	JkQSYTyoKgs
+Blossom time:	June
+#####################
+Relation: 0.272727
+
+######__TREE__#######
+Name:	hvOGRNFDe-O
+Age:	9291 y
+#####################
+Relation: 0.272727
+
+######__TREE__#######
+Name:	ajxoGGjaXKd
+Age:	5800 y
+#####################
+Relation: 0.272727
+
+######__SHRUB__######
+Name:	OmGqUEQSnpp
+Blossom time:	August
+#####################
+Relation: 0.272727
+
+######__FLOWER__#####
+Name:	sIFpIUzcKTs
+Type:	Wild
+#####################
+Relation: 0.272727
+
+######__SHRUB__######
+Name:	HohEFKpqCYr
+Blossom time:	April
+#####################
+Relation: 0.272727
+
+######__FLOWER__#####
+Name:	TitWWfJEPqI
+Type:	Domestic
+#####################
+Relation: 0.272727
+
+######__SHRUB__######
+Name:	LzUBpOqHcjY
+Blossom time:	November
+#####################
+Relation: 0.272727
+
+######__FLOWER__#####
+Name:	xhqiWUrhCiQ
+Type:	Wild
+#####################
+Relation: 0.272727
+
+######__TREE__#######
+Name:	tAVlDuipMKr
+Age:	2346 y
+#####################
+Relation: 0.272727
+
+######__SHRUB__######
+Name:	acgdddiMxEL
+Blossom time:	July
+#####################
+Relation: 0.272727
+
+######__TREE__#######
+Name:	vmouqyTcMgq
+Age:	733 y
+#####################
+Relation: 0.272727
+
+######__FLOWER__#####
+Name:	ubcFXBCejor
+Type:	Wild
+#####################
+Relation: 0.272727
+
+######__SHRUB__######
+Name:	tqnAhUCpIDx
+Blossom time:	April
+#####################
+Relation: 0.272727
+
+######__SHRUB__######
+Name:	DeGFjYIQBTT
+Blossom time:	June
+#####################
+Relation: 0.272727
+
+######__FLOWER__#####
+Name:	tNnxiLrjoOD
+Type:	Domestic
+#####################
+Relation: 0.272727
+
+######__SHRUB__######
+Name:	LrtUOu-HVVfLEsngUn
+Blossom time:	July
+#####################
+Relation: 0.277778
+
+######__SHRUB__######
+Name:	SOEAWl-HrqxepyMtND
+Blossom time:	August
+#####################
+Relation: 0.277778
+
+######__FLOWER__#####
+Name:	acbkCzaQKvmEBC-Upo
+Type:	Wild
+#####################
+Relation: 0.277778
+
+######__SHRUB__######
+Name:	DRkEOcgWSyPddOybWH
+Blossom time:	April
+#####################
+Relation: 0.277778
+
+######__TREE__#######
+Name:	kEdUbHoQIsqQfBJcOd
+Age:	5251 y
+#####################
+Relation: 0.277778
+
+######__TREE__#######
+Name:	QSIYMpiurBgVjbUfSV
+Age:	897 y
+#####################
+Relation: 0.277778
+
+######__SHRUB__######
+Name:	RpOHn-Oy-gvdgOFWen
+Blossom time:	July
+#####################
+Relation: 0.277778
+
+######__SHRUB__######
+Name:	mWIROHigHiDhSOnTbN
+Blossom time:	October
+#####################
+Relation: 0.277778
+
+######__FLOWER__#####
+Name:	eLSYXLOquHddvnRkZa
+Type:	Domestic
+#####################
+Relation: 0.277778
+
+######__TREE__#######
+Name:	sStrnedKaIHuzMybqP
+Age:	2561 y
+#####################
+Relation: 0.277778
+
+######__TREE__#######
+Name:	cApfvoj
+Age:	4974 y
+#####################
+Relation: 0.285714
+
+######__SHRUB__######
+Name:	soLhRetEqdcIjL
+Blossom time:	January
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	TefGZeB
+Type:	Wild
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	NrahLubUbWkuKf
+Type:	Garden
+#####################
+Relation: 0.285714
+
+######__TREE__#######
+Name:	GGjOriyzaTHcwZ
+Age:	256 y
+#####################
+Relation: 0.285714
+
+######__TREE__#######
+Name:	sMgLoYhzRrBYta
+Age:	9508 y
+#####################
+Relation: 0.285714
+
+######__SHRUB__######
+Name:	DBMrbeQdImcEyP
+Blossom time:	September
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	jiWNdyBgzNUhsE
+Type:	Wild
+#####################
+Relation: 0.285714
+
+######__SHRUB__######
+Name:	FcaHLjSQTaekIH
+Blossom time:	September
+#####################
+Relation: 0.285714
+
+######__TREE__#######
+Name:	YmpUbmC
+Age:	6718 y
+#####################
+Relation: 0.285714
+
+######__SHRUB__######
+Name:	IFgsgvxkkPAtao
+Blossom time:	September
+#####################
+Relation: 0.285714
+
+######__SHRUB__######
+Name:	sXWTYkI
+Blossom time:	September
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	WHnXOcOjwOxajm
+Type:	Garden
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	kdnfteY
+Type:	Garden
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	oRHixLw
+Type:	Domestic
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	JYJGSjo
+Type:	Garden
+#####################
+Relation: 0.285714
+
+######__SHRUB__######
+Name:	dVnOTykmAuCfwF
+Blossom time:	February
+#####################
+Relation: 0.285714
+
+######__TREE__#######
+Name:	SjRUul-
+Age:	3883 y
+#####################
+Relation: 0.285714
+
+######__TREE__#######
+Name:	MvDHnYy
+Age:	3343 y
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	BsvyLEF
+Type:	Garden
+#####################
+Relation: 0.285714
+
+######__TREE__#######
+Name:	DRJysqY
+Age:	4577 y
+#####################
+Relation: 0.285714
+
+######__SHRUB__######
+Name:	tJaMBDOlJumkBE
+Blossom time:	September
+#####################
+Relation: 0.285714
+
+######__SHRUB__######
+Name:	GOMHonf
+Blossom time:	September
+#####################
+Relation: 0.285714
+
+######__SHRUB__######
+Name:	ageLwCVAfbbCcY
+Blossom time:	August
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	lyasfmdJuDPUfT
+Type:	Wild
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	BtHHpcoUREjdbA
+Type:	Garden
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	ezRMelr
+Type:	Wild
+#####################
+Relation: 0.285714
+
+######__TREE__#######
+Name:	UWSIrgqsMYDBJu
+Age:	8854 y
+#####################
+Relation: 0.285714
+
+######__TREE__#######
+Name:	PLgoPtO
+Age:	5039 y
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	vIDZeikqydMMGh
+Type:	Domestic
+#####################
+Relation: 0.285714
+
+######__SHRUB__######
+Name:	pRUy-JVnzoRZXU
+Blossom time:	June
+#####################
+Relation: 0.285714
+
+######__SHRUB__######
+Name:	iaiOhkszdpzbdK
+Blossom time:	December
+#####################
+Relation: 0.285714
+
+######__SHRUB__######
+Name:	sEmHhpa
+Blossom time:	April
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	PAFsxZA
+Type:	Garden
+#####################
+Relation: 0.285714
+
+######__FLOWER__#####
+Name:	uqaLmBENmXXs-jYom
+Type:	Garden
+#####################
+Relation: 0.294118
+
+######__SHRUB__######
+Name:	PZoOzicvLwsrklFYy
+Blossom time:	August
+#####################
+Relation: 0.294118
+
+######__SHRUB__######
+Name:	MatwLkwmwIndIT-YY
+Blossom time:	June
+#####################
+Relation: 0.294118
+
+######__SHRUB__######
+Name:	wvuo-wCBx-OaPODJQ
+Blossom time:	December
+#####################
+Relation: 0.294118
+
+######__SHRUB__######
+Name:	KcTNPvVobmrniEoAb
+Blossom time:	April
+#####################
+Relation: 0.294118
+
+######__SHRUB__######
+Name:	YFKDLBuG-obvIHheF
+Blossom time:	December
+#####################
+Relation: 0.294118
+
+######__TREE__#######
+Name:	yWivzIJmPYiKZCrTM
+Age:	3460 y
+#####################
+Relation: 0.294118
+
+######__TREE__#######
+Name:	ioJgBGiMpbTXALKgy
+Age:	3485 y
+#####################
+Relation: 0.294118
+
+######__FLOWER__#####
+Name:	PItCiQgCsEEdKhgoK
+Type:	Domestic
+#####################
+Relation: 0.294118
+
+######__TREE__#######
+Name:	OIATgZdodyDkWVmhP
+Age:	9821 y
+#####################
+Relation: 0.294118
+
+######__FLOWER__#####
+Name:	wakFzoILoVxNFmOcV
+Type:	Garden
+#####################
+Relation: 0.294118
+
+######__FLOWER__#####
+Name:	iGXxhxHaTOM-AsfaW
+Type:	Garden
+#####################
+Relation: 0.294118
+
+######__FLOWER__#####
+Name:	zZcSHTySOaFVVeQbA
+Type:	Domestic
+#####################
+Relation: 0.294118
+
+######__FLOWER__#####
+Name:	FvaAK-KJAF
+Type:	Domestic
+#####################
+Relation: 0.300000
+
+######__SHRUB__######
+Name:	RqQIEbrfOG
+Blossom time:	September
+#####################
+Relation: 0.300000
+
+######__TREE__#######
+Name:	CKtWeOCman
+Age:	1653 y
+#####################
+Relation: 0.300000
+
+######__FLOWER__#####
+Name:	KYOsdoTLgN
+Type:	Wild
+#####################
+Relation: 0.300000
+
+######__TREE__#######
+Name:	dqYwZXOzLa
+Age:	1216 y
+#####################
+Relation: 0.300000
+
+######__TREE__#######
+Name:	-nUEzQkQYF
+Age:	1837 y
+#####################
+Relation: 0.300000
+
+######__TREE__#######
+Name:	yKLXWJETYR
+Age:	9800 y
+#####################
+Relation: 0.300000
+
+######__FLOWER__#####
+Name:	xUwaHt-fQe
+Type:	Domestic
+#####################
+Relation: 0.300000
+
+######__SHRUB__######
+Name:	-JiWKjbvoU
+Blossom time:	February
+#####################
+Relation: 0.300000
+
+######__TREE__#######
+Name:	NREDEMkNUf
+Age:	8184 y
+#####################
+Relation: 0.300000
+
+######__FLOWER__#####
+Name:	TRFDAbODTa
+Type:	Garden
+#####################
+Relation: 0.300000
+
+######__SHRUB__######
+Name:	JY-AhybzGh
+Blossom time:	February
+#####################
+Relation: 0.300000
+
+######__SHRUB__######
+Name:	aQWHdByjyg
+Blossom time:	January
+#####################
+Relation: 0.300000
+
+######__FLOWER__#####
+Name:	xBDheBiQMe
+Type:	Wild
+#####################
+Relation: 0.300000
+
+######__FLOWER__#####
+Name:	fpJCyWumYH
+Type:	Domestic
+#####################
+Relation: 0.300000
+
+######__TREE__#######
+Name:	EeDNKqVQuW
+Age:	8836 y
+#####################
+Relation: 0.300000
+
+######__FLOWER__#####
+Name:	XyNkZYGpRQeAv
+Type:	Wild
+#####################
+Relation: 0.307692
+
+######__SHRUB__######
+Name:	aqKeCacpxMveJ
+Blossom time:	December
+#####################
+Relation: 0.307692
+
+######__SHRUB__######
+Name:	yRreeCsjDxYHK
+Blossom time:	July
+#####################
+Relation: 0.307692
+
+######__SHRUB__######
+Name:	FmtJtyEOcCTna
+Blossom time:	October
+#####################
+Relation: 0.307692
+
+######__FLOWER__#####
+Name:	ZWmFlXsoeYFIQ
+Type:	Domestic
+#####################
+Relation: 0.307692
+
+######__TREE__#######
+Name:	UGsyAWVUXlBDq
+Age:	6243 y
+#####################
+Relation: 0.307692
+
+######__SHRUB__######
+Name:	dLbZyvQjKUeXI
+Blossom time:	June
+#####################
+Relation: 0.307692
+
+######__SHRUB__######
+Name:	iLjnBkmeZzCoo
+Blossom time:	January
+#####################
+Relation: 0.307692
+
+######__FLOWER__#####
+Name:	ZPauGfaRgWihr
+Type:	Domestic
+#####################
+Relation: 0.307692
+
+######__FLOWER__#####
+Name:	kzWvybEpIJHamuWW
+Type:	Domestic
+#####################
+Relation: 0.312500
+
+######__TREE__#######
+Name:	LimgvRxYKOYfLvMa
+Age:	8460 y
+#####################
+Relation: 0.312500
+
+######__FLOWER__#####
+Name:	lWQobgRAMVubyFbI
+Type:	Domestic
+#####################
+Relation: 0.312500
+
+######__FLOWER__#####
+Name:	NruNDezImcEGTVBY
+Type:	Garden
+#####################
+Relation: 0.312500
+
+######__SHRUB__######
+Name:	mEWgDqvjeCPigUiQ
+Blossom time:	February
+#####################
+Relation: 0.312500
+
+######__FLOWER__#####
+Name:	WpmzDReEYwCASCAv
+Type:	Domestic
+#####################
+Relation: 0.312500
+
+######__FLOWER__#####
+Name:	OMfqkngpEM-eIZje
+Type:	Wild
+#####################
+Relation: 0.312500
+
+######__SHRUB__######
+Name:	O-odAXJgXXViF-Lo
+Blossom time:	July
+#####################
+Relation: 0.312500
+
+######__SHRUB__######
+Name:	zMYVrGeUoKMixSNd
+Blossom time:	August
+#####################
+Relation: 0.312500
+
+######__FLOWER__#####
+Name:	oqgnEtslouuvxKJj
+Type:	Garden
+#####################
+Relation: 0.312500
+
+######__SHRUB__######
+Name:	mwoNCSSOYbGRnOam
+Blossom time:	January
+#####################
+Relation: 0.312500
+
+######__FLOWER__#####
+Name:	ZyExxlUDPMpjIQAtzNo
+Type:	Domestic
+#####################
+Relation: 0.315789
+
+######__FLOWER__#####
+Name:	baTtXINpeLOstvkjEIc
+Type:	Domestic
+#####################
+Relation: 0.315789
+
+######__FLOWER__#####
+Name:	xUgpsjgkuyJCYFEywvd
+Type:	Wild
+#####################
+Relation: 0.315789
+
+######__SHRUB__######
+Name:	MiGTTUVXtzeVADzdibe
+Blossom time:	July
+#####################
+Relation: 0.315789
+
+######__SHRUB__######
+Name:	EtBaLk
+Blossom time:	February
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	YfVewh
+Blossom time:	October
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	MBlDwyFadisY
+Age:	6815 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	JUD
+Age:	6415 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	feB
+Age:	8762 y
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	yPCqXIIFl
+Type:	Domestic
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	XmlbaU
+Blossom time:	June
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	gEsPZa
+Age:	687 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	NINumzYuqGUPxsz
+Age:	7477 y
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	LFMkiYdqYRuf
+Blossom time:	March
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	ymqsTA
+Age:	2618 y
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	vojSWsoys
+Type:	Wild
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	EuWEKLRDMDiP
+Type:	Garden
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	yJAlvg
+Type:	Domestic
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	RdDgauQiS
+Blossom time:	November
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	CKlruoCOp
+Type:	Garden
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	YMlUmGuNhAVLACnEdh
+Blossom time:	October
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	JFi
+Age:	1741 y
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	LYUHowdzf
+Type:	Domestic
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	cBIQzuEyDXQn
+Blossom time:	October
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	uyzPkjAgaZRN
+Type:	Domestic
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	yCc
+Age:	4094 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	pUBzAkDwY
+Age:	2722 y
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	IKCaMZ
+Blossom time:	October
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	PyH
+Age:	1127 y
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	ecqxeX
+Blossom time:	January
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	OrR
+Type:	Garden
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	pWIwFO
+Type:	Wild
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	noR-tPBuA
+Type:	Wild
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	SuT
+Age:	4763 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	ffy
+Age:	8480 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	Zjy
+Age:	559 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	Yner-XFaGArR-eb
+Age:	3333 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	APckjaVaOuqFxRQ
+Age:	4917 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	-CoOVFhNDeoCbUKRaR
+Age:	1536 y
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	Rdi
+Type:	Domestic
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	NjvUmiOFQ
+Blossom time:	October
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	VpuBnElzlrYY
+Blossom time:	April
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	iUhlzhduj
+Age:	1434 y
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	KynxeH
+Blossom time:	June
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	uRNdOz
+Age:	4425 y
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	NtzEKHePO
+Blossom time:	March
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	EVuCkN
+Type:	Wild
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	thwYUgvREokz
+Blossom time:	April
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	FAZDYsqAIGvk
+Type:	Wild
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	GAZ
+Type:	Garden
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	Yzg
+Type:	Garden
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	xkhUgYBMIvURtoQ
+Age:	7792 y
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	XVezEMMmU
+Blossom time:	April
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	InFz-qRFodei
+Age:	5872 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	gGBuzFIQaaKgxlA
+Age:	7897 y
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	WoXVDA
+Blossom time:	November
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	EmF
+Age:	8874 y
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	bUQMltuTEEFqYspext
+Blossom time:	December
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	PcU
+Blossom time:	September
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	xeaewhDxs
+Blossom time:	June
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	CjoKoP-BO
+Age:	7467 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	zrFY-Y
+Age:	4670 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	jrU
+Age:	7036 y
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	agYCHEDTbiKM
+Blossom time:	June
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	UGepCHhJApdEpKa
+Blossom time:	July
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	lxakNwJawSEU
+Age:	2600 y
+#####################
+Relation: 0.333333
+
+######__TREE__#######
+Name:	VlY
+Age:	9500 y
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	IAXdUQUthkCLUHJOH
+Type:	Garden
+#####################
+Relation: 0.352941
+
+######__SHRUB__######
+Name:	u-EeJrhMXewaSdeBm
+Blossom time:	March
+#####################
+Relation: 0.352941
+
+######__SHRUB__######
+Name:	UPtZaeMfcWoXiyX-s
+Blossom time:	June
+#####################
+Relation: 0.352941
+
+######__FLOWER__#####
+Name:	IZX-pAPCnlNNaIXAO
+Type:	Wild
+#####################
+Relation: 0.352941
+
+######__SHRUB__######
+Name:	Cqe-xKHhaEPeuBaRG
+Blossom time:	December
+#####################
+Relation: 0.352941
+
+######__TREE__#######
+Name:	fMeEjixNQNkOah
+Age:	1402 y
+#####################
+Relation: 0.357143
+
+######__FLOWER__#####
+Name:	-FYyXdPCI-yMAd
+Type:	Garden
+#####################
+Relation: 0.357143
+
+######__FLOWER__#####
+Name:	xXIAAVuxyQFwlx
+Type:	Wild
+#####################
+Relation: 0.357143
+
+######__TREE__#######
+Name:	eHAXTrstCYu
+Age:	330 y
+#####################
+Relation: 0.363636
+
+######__TREE__#######
+Name:	-DgEwYrLIHy
+Age:	1120 y
+#####################
+Relation: 0.363636
+
+######__SHRUB__######
+Name:	VTFpoePOOwZ
+Blossom time:	November
+#####################
+Relation: 0.363636
+
+######__SHRUB__######
+Name:	TFnpeoQKelU
+Blossom time:	December
+#####################
+Relation: 0.363636
+
+######__FLOWER__#####
+Name:	MoiTRedtjuF
+Type:	Domestic
+#####################
+Relation: 0.363636
+
+######__FLOWER__#####
+Name:	y-EKnfapgOg
+Type:	Garden
+#####################
+Relation: 0.363636
+
+######__SHRUB__######
+Name:	kyksNUgUWkY
+Blossom time:	November
+#####################
+Relation: 0.363636
+
+######__FLOWER__#####
+Name:	PiItoTCQByK
+Type:	Wild
+#####################
+Relation: 0.363636
+
+######__FLOWER__#####
+Name:	VE-sKakaJmY
+Type:	Wild
+#####################
+Relation: 0.363636
+
+######__TREE__#######
+Name:	iDQJHpYkqaY
+Age:	1137 y
+#####################
+Relation: 0.363636
+
+######__SHRUB__######
+Name:	UfLEagrSetM
+Blossom time:	August
+#####################
+Relation: 0.363636
+
+######__TREE__#######
+Name:	M-GPoePasORmweSSkye
+Age:	8026 y
+#####################
+Relation: 0.368421
+
+######__FLOWER__#####
+Name:	dvSgaExFzBiiYWgLWEI
+Type:	Garden
+#####################
+Relation: 0.368421
+
+######__SHRUB__######
+Name:	YPeAPZsz
+Blossom time:	February
+#####################
+Relation: 0.375000
+
+######__FLOWER__#####
+Name:	foiTFojl
+Type:	Garden
+#####################
+Relation: 0.375000
+
+######__TREE__#######
+Name:	nOA-CQy-
+Age:	2000 y
+#####################
+Relation: 0.375000
+
+######__FLOWER__#####
+Name:	lRnxHXyhoiflAAEr
+Type:	Domestic
+#####################
+Relation: 0.375000
+
+######__SHRUB__######
+Name:	tCghyxyU
+Blossom time:	December
+#####################
+Relation: 0.375000
+
+######__SHRUB__######
+Name:	veZPXCUG-KYZAEIw
+Blossom time:	February
+#####################
+Relation: 0.375000
+
+######__SHRUB__######
+Name:	wRTuvoly
+Blossom time:	October
+#####################
+Relation: 0.375000
+
+######__FLOWER__#####
+Name:	aepLzBow
+Type:	Domestic
+#####################
+Relation: 0.375000
+
+######__TREE__#######
+Name:	wqPygZuY
+Age:	4090 y
+#####################
+Relation: 0.375000
+
+######__SHRUB__######
+Name:	buViXExX
+Blossom time:	July
+#####################
+Relation: 0.375000
+
+######__SHRUB__######
+Name:	z-ZAuFQe
+Blossom time:	April
+#####################
+Relation: 0.375000
+
+######__TREE__#######
+Name:	nUQuZfevLVwOODuN
+Age:	3785 y
+#####################
+Relation: 0.375000
+
+######__TREE__#######
+Name:	ynkgHaUn
+Age:	9449 y
+#####################
+Relation: 0.375000
+
+######__TREE__#######
+Name:	QYEajqM-
+Age:	3817 y
+#####################
+Relation: 0.375000
+
+######__SHRUB__######
+Name:	KYbEHM-Y
+Blossom time:	December
+#####################
+Relation: 0.375000
+
+######__TREE__#######
+Name:	xPKiuyfW
+Age:	9999 y
+#####################
+Relation: 0.375000
+
+######__SHRUB__######
+Name:	xUJbsUcChaoEvqku
+Blossom time:	September
+#####################
+Relation: 0.375000
+
+######__SHRUB__######
+Name:	RisEPMsO
+Blossom time:	November
+#####################
+Relation: 0.375000
+
+######__TREE__#######
+Name:	JQrYEYkk
+Age:	6375 y
+#####################
+Relation: 0.375000
+
+######__SHRUB__######
+Name:	aLAfveuyRPlPWEbW
+Blossom time:	September
+#####################
+Relation: 0.375000
+
+######__SHRUB__######
+Name:	uSyPrjYAiWJAWBvs
+Blossom time:	December
+#####################
+Relation: 0.375000
+
+######__SHRUB__######
+Name:	cLJQOqAU
+Blossom time:	October
+#####################
+Relation: 0.375000
+
+######__TREE__#######
+Name:	tTsgYciXpevdIYFi
+Age:	9107 y
+#####################
+Relation: 0.375000
+
+######__SHRUB__######
+Name:	abqFKjoU
+Blossom time:	April
+#####################
+Relation: 0.375000
+
+######__TREE__#######
+Name:	ThyAZnOz
+Age:	8587 y
+#####################
+Relation: 0.375000
+
+######__FLOWER__#####
+Name:	hALGyIeKfYQmp
+Type:	Wild
+#####################
+Relation: 0.384615
+
+######__FLOWER__#####
+Name:	mfrosFybuMUeq
+Type:	Wild
+#####################
+Relation: 0.384615
+
+######__TREE__#######
+Name:	oxeabshYbGAcN
+Age:	6408 y
+#####################
+Relation: 0.384615
+
+######__TREE__#######
+Name:	J-QJuXzAUSeox
+Age:	467 y
+#####################
+Relation: 0.384615
+
+######__FLOWER__#####
+Name:	OyQUIjpvnEhwM
+Type:	Garden
+#####################
+Relation: 0.384615
+
+######__TREE__#######
+Name:	mmpOEnkUQmebY
+Age:	7826 y
+#####################
+Relation: 0.384615
+
+######__TREE__#######
+Name:	BrPIwEIRwoUuqEDKcX
+Age:	2243 y
+#####################
+Relation: 0.388889
+
+######__FLOWER__#####
+Name:	RhWauiWqvULBVEZbay
+Type:	Domestic
+#####################
+Relation: 0.388889
+
+######__SHRUB__######
+Name:	MalhsXuuswdUoxuekc
+Blossom time:	July
+#####################
+Relation: 0.388889
+
+######__FLOWER__#####
+Name:	YKOMIzyfhM
+Type:	Garden
+#####################
+Relation: 0.400000
+
+######__TREE__#######
+Name:	QrORE
+Age:	9347 y
+#####################
+Relation: 0.400000
+
+######__TREE__#######
+Name:	rGIUd
+Age:	7502 y
+#####################
+Relation: 0.400000
+
+######__FLOWER__#####
+Name:	UxQir
+Type:	Garden
+#####################
+Relation: 0.400000
+
+######__SHRUB__######
+Name:	QEKda
+Blossom time:	July
+#####################
+Relation: 0.400000
+
+######__TREE__#######
+Name:	PDeCLlsiEE
+Age:	8914 y
+#####################
+Relation: 0.400000
+
+######__FLOWER__#####
+Name:	Odabq
+Type:	Domestic
+#####################
+Relation: 0.400000
+
+######__TREE__#######
+Name:	SriXKAaPRzEHAgI
+Age:	7652 y
+#####################
+Relation: 0.400000
+
+######__SHRUB__######
+Name:	mmgio
+Blossom time:	July
+#####################
+Relation: 0.400000
+
+######__SHRUB__######
+Name:	EydUUwstfNAdEBP
+Blossom time:	August
+#####################
+Relation: 0.400000
+
+######__TREE__#######
+Name:	-HacA
+Age:	7457 y
+#####################
+Relation: 0.400000
+
+######__SHRUB__######
+Name:	sgYwo
+Blossom time:	September
+#####################
+Relation: 0.400000
+
+######__FLOWER__#####
+Name:	BIydh
+Type:	Wild
+#####################
+Relation: 0.400000
+
+######__FLOWER__#####
+Name:	OANHg
+Type:	Wild
+#####################
+Relation: 0.400000
+
+######__SHRUB__######
+Name:	YPsjo
+Blossom time:	October
+#####################
+Relation: 0.400000
+
+######__FLOWER__#####
+Name:	eSvPO
+Type:	Wild
+#####################
+Relation: 0.400000
+
+######__SHRUB__######
+Name:	plNEa
+Blossom time:	September
+#####################
+Relation: 0.400000
+
+######__TREE__#######
+Name:	YEnZd
+Age:	4162 y
+#####################
+Relation: 0.400000
+
+######__TREE__#######
+Name:	HoykbCEwcfyasim
+Age:	8487 y
+#####################
+Relation: 0.400000
+
+######__SHRUB__######
+Name:	bHiabAzozx
+Blossom time:	September
+#####################
+Relation: 0.400000
+
+######__TREE__#######
+Name:	NkXeUFJAemOcisuNK
+Age:	8490 y
+#####################
+Relation: 0.411765
+
+######__TREE__#######
+Name:	-iuGej-ElVyudHQxo
+Age:	810 y
+#####################
+Relation: 0.411765
+
+######__SHRUB__######
+Name:	tVIuxuSuXeoEtpKFs
+Blossom time:	May
+#####################
+Relation: 0.411765
+
+######__FLOWER__#####
+Name:	qpmflRHeYRu-OOEyg
+Type:	Garden
+#####################
+Relation: 0.411765
+
+######__FLOWER__#####
+Name:	doakuEPlBwug
+Type:	Wild
+#####################
+Relation: 0.416667
+
+######__TREE__#######
+Name:	EkxYsEjgoJeV
+Age:	465 y
+#####################
+Relation: 0.416667
+
+######__FLOWER__#####
+Name:	vjwvEetOvPAI
+Type:	Domestic
+#####################
+Relation: 0.416667
+
+######__TREE__#######
+Name:	MIvfqumcieaEoBEQkkt
+Age:	1764 y
+#####################
+Relation: 0.421053
+
+######__SHRUB__######
+Name:	GevWPexYHgoRyjoTYIC
+Blossom time:	June
+#####################
+Relation: 0.421053
+
+######__FLOWER__#####
+Name:	jGtKdMoEeyIpex
+Type:	Garden
+#####################
+Relation: 0.428571
+
+######__FLOWER__#####
+Name:	doMAvvA
+Type:	Wild
+#####################
+Relation: 0.428571
+
+######__FLOWER__#####
+Name:	BOlVziu
+Type:	Garden
+#####################
+Relation: 0.428571
+
+######__FLOWER__#####
+Name:	uiarsSQ
+Type:	Garden
+#####################
+Relation: 0.428571
+
+######__TREE__#######
+Name:	DTYEkiT
+Age:	7419 y
+#####################
+Relation: 0.428571
+
+######__FLOWER__#####
+Name:	SRUbiRfboYyaPD
+Type:	Garden
+#####################
+Relation: 0.428571
+
+######__FLOWER__#####
+Name:	YLIa-afENQHMIp
+Type:	Wild
+#####################
+Relation: 0.428571
+
+######__FLOWER__#####
+Name:	uevQYlH
+Type:	Domestic
+#####################
+Relation: 0.428571
+
+######__TREE__#######
+Name:	hDulQyoEWQIulr
+Age:	3068 y
+#####################
+Relation: 0.428571
+
+######__SHRUB__######
+Name:	ANgAiZB
+Blossom time:	May
+#####################
+Relation: 0.428571
+
+######__TREE__#######
+Name:	REVpREI
+Age:	4458 y
+#####################
+Relation: 0.428571
+
+######__FLOWER__#####
+Name:	yHMekMI
+Type:	Garden
+#####################
+Relation: 0.428571
+
+######__FLOWER__#####
+Name:	AMCejGU
+Type:	Wild
+#####################
+Relation: 0.428571
+
+######__TREE__#######
+Name:	xiGozPoTEcYygM
+Age:	1633 y
+#####################
+Relation: 0.428571
+
+######__TREE__#######
+Name:	YxmASSU
+Age:	8853 y
+#####################
+Relation: 0.428571
+
+######__FLOWER__#####
+Name:	gakNnUI
+Type:	Wild
+#####################
+Relation: 0.428571
+
+######__TREE__#######
+Name:	sIAQOwzAbzlYoWZY
+Age:	7296 y
+#####################
+Relation: 0.437500
+
+######__TREE__#######
+Name:	vuRdtgYCANCOVUOE
+Age:	125 y
+#####################
+Relation: 0.437500
+
+######__SHRUB__######
+Name:	lvQuaCYAW
+Blossom time:	June
+#####################
+Relation: 0.444444
+
+######__SHRUB__######
+Name:	fMdUrobiE
+Blossom time:	September
+#####################
+Relation: 0.444444
+
+######__SHRUB__######
+Name:	AowUNKBPe
+Blossom time:	April
+#####################
+Relation: 0.444444
+
+######__SHRUB__######
+Name:	QXoEzE-Be
+Blossom time:	November
+#####################
+Relation: 0.444444
+
+######__SHRUB__######
+Name:	Soy-vAE-z
+Blossom time:	June
+#####################
+Relation: 0.444444
+
+######__TREE__#######
+Name:	iiDEbHMyj
+Age:	9140 y
+#####################
+Relation: 0.444444
+
+######__SHRUB__######
+Name:	aqGfuxEWcYY
+Blossom time:	November
+#####################
+Relation: 0.454545
+
+######__SHRUB__######
+Name:	NaDRILIi-BY
+Blossom time:	August
+#####################
+Relation: 0.454545
+
+######__FLOWER__#####
+Name:	GiNYsEejLha
+Type:	Domestic
+#####################
+Relation: 0.454545
+
+######__TREE__#######
+Name:	VtyGXIEquUp
+Age:	5766 y
+#####################
+Relation: 0.454545
+
+######__TREE__#######
+Name:	CEyOoOgWRCrUf
+Age:	5421 y
+#####################
+Relation: 0.461538
+
+######__FLOWER__#####
+Name:	LGamgLyUEoidc
+Type:	Domestic
+#####################
+Relation: 0.461538
+
+######__FLOWER__#####
+Name:	XQosUeuxNfeSa
+Type:	Domestic
+#####################
+Relation: 0.461538
+
+######__FLOWER__#####
+Name:	bdTGUyOeNvfii
+Type:	Garden
+#####################
+Relation: 0.461538
+
+######__TREE__#######
+Name:	uoXauXVrAgUdQ
+Age:	8022 y
+#####################
+Relation: 0.461538
+
+######__FLOWER__#####
+Name:	fOOKXLTgoycYuAT
+Type:	Domestic
+#####################
+Relation: 0.466667
+
+######__FLOWER__#####
+Name:	hIReEMLiqIkUenB
+Type:	Wild
+#####################
+Relation: 0.466667
+
+######__TREE__#######
+Name:	elSUXxiEAsAsMaZ
+Age:	1820 y
+#####################
+Relation: 0.466667
+
+######__TREE__#######
+Name:	ozEoOJUFWfCkYjII-
+Age:	90 y
+#####################
+Relation: 0.470588
+
+######__TREE__#######
+Name:	iOUbUIS-OEJDNitwhiZ
+Age:	2136 y
+#####################
+Relation: 0.473684
+
+######__FLOWER__#####
+Name:	-YiV
+Type:	Domestic
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	QfamoY
+Age:	4132 y
+#####################
+Relation: 0.500000
+
+######__FLOWER__#####
+Name:	SoqJOO
+Type:	Garden
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	feAWen
+Age:	533 y
+#####################
+Relation: 0.500000
+
+######__FLOWER__#####
+Name:	BQAU
+Type:	Domestic
+#####################
+Relation: 0.500000
+
+######__SHRUB__######
+Name:	oHepiIfVoZXA
+Blossom time:	November
+#####################
+Relation: 0.500000
+
+######__SHRUB__######
+Name:	oWUC
+Blossom time:	December
+#####################
+Relation: 0.500000
+
+######__FLOWER__#####
+Name:	GtIe
+Type:	Garden
+#####################
+Relation: 0.500000
+
+######__SHRUB__######
+Name:	sweuLI
+Blossom time:	April
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	Ubpwuo
+Age:	5549 y
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	IuQv
+Age:	794 y
+#####################
+Relation: 0.500000
+
+######__FLOWER__#####
+Name:	zuKI
+Type:	Garden
+#####################
+Relation: 0.500000
+
+######__FLOWER__#####
+Name:	ylSI
+Type:	Domestic
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	bYIR
+Age:	2887 y
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	gsOAEFdY
+Age:	5031 y
+#####################
+Relation: 0.500000
+
+######__SHRUB__######
+Name:	KUUWaq
+Blossom time:	October
+#####################
+Relation: 0.500000
+
+######__SHRUB__######
+Name:	AYromYnL
+Blossom time:	September
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	Qojoko
+Age:	5351 y
+#####################
+Relation: 0.500000
+
+######__FLOWER__#####
+Name:	fOjU
+Type:	Domestic
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	aosUKrwvoo
+Age:	6017 y
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	yLkU
+Age:	579 y
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	be-ONUoN
+Age:	6990 y
+#####################
+Relation: 0.500000
+
+######__FLOWER__#####
+Name:	absE
+Type:	Domestic
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	EiqbGIYaoAkLQJaq
+Age:	5681 y
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	uOlAuciKRW
+Age:	502 y
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	AlIr
+Age:	7667 y
+#####################
+Relation: 0.500000
+
+######__SHRUB__######
+Name:	iHjGEayWuOpK
+Blossom time:	September
+#####################
+Relation: 0.500000
+
+######__FLOWER__#####
+Name:	dbsyEyYf
+Type:	Wild
+#####################
+Relation: 0.500000
+
+######__TREE__#######
+Name:	lYxoYtRu
+Age:	2203 y
+#####################
+Relation: 0.500000
+
+######__FLOWER__#####
+Name:	qAeyXT
+Type:	Domestic
+#####################
+Relation: 0.500000
+
+######__SHRUB__######
+Name:	yikoEzUHOVINt
+Blossom time:	March
+#####################
+Relation: 0.538462
+
+######__TREE__#######
+Name:	yXqmIETuAupIp
+Age:	9574 y
+#####################
+Relation: 0.538462
+
+######__SHRUB__######
+Name:	OuecaijLGIf
+Blossom time:	August
+#####################
+Relation: 0.545455
+
+######__TREE__#######
+Name:	uohUtoTnu
+Age:	6975 y
+#####################
+Relation: 0.555556
+
+######__SHRUB__######
+Name:	AcZevPeyE
+Blossom time:	September
+#####################
+Relation: 0.555556
+
+######__SHRUB__######
+Name:	OxnyUTyyKiVEkIwOYt
+Blossom time:	June
+#####################
+Relation: 0.555556
+
+######__TREE__#######
+Name:	GEIwY-ZOy
+Age:	4 y
+#####################
+Relation: 0.555556
+
+######__TREE__#######
+Name:	SoJEOqUET
+Age:	9440 y
+#####################
+Relation: 0.555556
+
+######__TREE__#######
+Name:	BRiAXuCIemEAoECH
+Age:	2184 y
+#####################
+Relation: 0.562500
+
+######__FLOWER__#####
+Name:	yIMSa
+Type:	Garden
+#####################
+Relation: 0.600000
+
+######__FLOWER__#####
+Name:	hlooY
+Type:	Garden
+#####################
+Relation: 0.600000
+
+######__TREE__#######
+Name:	yvwea
+Age:	4856 y
+#####################
+Relation: 0.600000
+
+######__TREE__#######
+Name:	LYIpy
+Age:	6404 y
+#####################
+Relation: 0.600000
+
+######__SHRUB__######
+Name:	vuYuM
+Blossom time:	February
+#####################
+Relation: 0.600000
+
+######__TREE__#######
+Name:	AGEYg
+Age:	6729 y
+#####################
+Relation: 0.600000
+
+######__TREE__#######
+Name:	bEXOIifoOZ
+Age:	2654 y
+#####################
+Relation: 0.600000
+
+######__TREE__#######
+Name:	vOUAl
+Age:	9993 y
+#####################
+Relation: 0.600000
+
+######__TREE__#######
+Name:	aSA
+Age:	8489 y
+#####################
+Relation: 0.666667
+
+######__FLOWER__#####
+Name:	TOo
+Type:	Domestic
+#####################
+Relation: 0.666667
+
+######__FLOWER__#####
+Name:	buE
+Type:	Domestic
+#####################
+Relation: 0.666667
+
+######__FLOWER__#####
+Name:	oit
+Type:	Garden
+#####################
+Relation: 0.666667
+
+___________________________________________
+Time: 152 ms

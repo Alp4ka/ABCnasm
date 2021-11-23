@@ -1,0 +1,117 @@
+-------INPUT------
+Number of elements: 10
+######__FLOWER__#####
+Name:	gQi
+Type:	Garden
+#####################
+
+######__TREE__#######
+Name:	oDztxSSShJvceeF
+Age:	4538 y
+#####################
+
+######__FLOWER__#####
+Name:	ns-viWBV
+Type:	Garden
+#####################
+
+######__FLOWER__#####
+Name:	uFSlsVLbDeLeT
+Type:	Wild
+#####################
+
+######__TREE__#######
+Name:	U-Rz
+Age:	4144 y
+#####################
+
+######__SHRUB__######
+Name:	QWyBEF
+Blossom time:	July
+#####################
+
+######__FLOWER__#####
+Name:	nVsJBolpkAkcNwePu
+Type:	Domestic
+#####################
+
+######__SHRUB__######
+Name:	tuJykLFTR
+Blossom time:	June
+#####################
+
+######__TREE__#######
+Name:	HGbKbhQXmkHRnBDyixc
+Age:	1815 y
+#####################
+
+######__FLOWER__#####
+Name:	BnPaRFOyxE-kXE
+Type:	Garden
+#####################
+
+___________________________________________
+-------OUTPUT------
+Number of elements: 10
+######__TREE__#######
+Name:	HGbKbhQXmkHRnBDyixc
+Age:	1815 y
+#####################
+Relation: 0.105263
+
+######__FLOWER__#####
+Name:	ns-viWBV
+Type:	Garden
+#####################
+Relation: 0.125000
+
+######__TREE__#######
+Name:	oDztxSSShJvceeF
+Age:	4538 y
+#####################
+Relation: 0.200000
+
+######__SHRUB__######
+Name:	tuJykLFTR
+Blossom time:	June
+#####################
+Relation: 0.222222
+
+######__FLOWER__#####
+Name:	uFSlsVLbDeLeT
+Type:	Wild
+#####################
+Relation: 0.230769
+
+######__FLOWER__#####
+Name:	nVsJBolpkAkcNwePu
+Type:	Domestic
+#####################
+Relation: 0.235294
+
+######__TREE__#######
+Name:	U-Rz
+Age:	4144 y
+#####################
+Relation: 0.250000
+
+######__FLOWER__#####
+Name:	gQi
+Type:	Garden
+#####################
+Relation: 0.333333
+
+######__SHRUB__######
+Name:	QWyBEF
+Blossom time:	July
+#####################
+Relation: 0.333333
+
+######__FLOWER__#####
+Name:	BnPaRFOyxE-kXE
+Type:	Garden
+#####################
+Relation: 0.357143
+
+___________________________________________
+Time: 0 ms
